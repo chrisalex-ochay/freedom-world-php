@@ -22,7 +22,8 @@
                         <li><a href="../products-page1.php">Page1</a></li>
                         <li><a href="../products-page2.php">Page2</a></li>
                         <li><a href="../products-page3.php">Page3</a></li>
-                        <li><a href="../index.php">Featured prdts</a></li>
+                        <li><a href="../index.php#featuredID">Featured prdts</a></li>
+                        <li><a href="../index.php#latestID">Latest prdts</a></li>
                     </ul>
                 </div>
                 <div class="footer-col-4">
