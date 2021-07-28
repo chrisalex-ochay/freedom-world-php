@@ -48,7 +48,7 @@
                 <a href="#latestID"><button class="btn">discover</button></a>
             </div>
         </div> 
-        <!-- <div class="item">
+         <div class="item">
             <img src="images/home3-work22.jpg" alt="">
             <div class="content">
                 <h3>Quality Products</h3>
@@ -56,7 +56,7 @@
                 <a href="#latestID"><button class="btn">discover</button></a>
             </div>
         </div>
-        <div class="item">
+       <!-- <div class="item">
             <img src="images/home-image3.jpg" alt="">
             <div class="content">
                 <h3>Trending electronics</h3>
