@@ -44,7 +44,7 @@
             <img src="images/hm-img1.jpg" alt="">
             <div class="content">
                 <h3>Latest Gadgets</h3>
-                <p>All available in both Retail and Wholesale, click Discover for more.</p>
+                <p>All available in both Retail and Wholesale, click discover</p>
                 <a href="#latestID"><button class="btn">discover</button></a>
             </div>
         </div> 
