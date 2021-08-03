@@ -48,7 +48,7 @@
                     <br>
                     <h4 style="font-weight: bolder;">Our Vision</h4> 
                     <p> Our vision is to serve, empower, enrich, develop, produce and supply quality 
-                        technologies, standard electronics and the finest accesories for local 
+                        services and technologies, standard electronics and the finest accesories for local 
                         and global consumption. 
                     </p>
                     <br>
