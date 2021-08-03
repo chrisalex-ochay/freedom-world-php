@@ -4,7 +4,7 @@
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Freedom World Technolories & Accesories</title>
+            <title>Cart - Freedom World Technolories & Accesories</title>
             <link rel="stylesheet" href="style.css">
         
             <!-- Link for awesome fonts cdn -->
@@ -39,16 +39,16 @@
 
 <div class="small-container cart-page">
 
-    <table>
+    <table class="table1">
         <tr>
-            <th>Products</th>
-            <th>Quantity</th>
-            <th>Subtotal</th>
+            <th class="th1">Products</th>
+            <th class="th1">Quantity</th>
+            <th class="th1">Subtotal</th>
         </tr>
         <tr>
-            <td>
+            <td class="td1">
                 <div class="cart-info">
-                    <img src="images/product-2-laptop1-2.jpg" >
+                    <img src="images/product-2-laptop1-1.png" >
                     <div>
                         <p>Laptop Brand New</p>
                         <small>Price: $1000.00</small>
@@ -57,11 +57,11 @@
                     </div>
                 </div>
             </td>
-            <td><input type="number" value="1"></td>
-            <td>$1000.00</td>
+            <td class="td1"><input type="number" value="1"></td>
+            <td class="td1">$1000.00</td>
         </tr>
         <tr>
-            <td>
+            <td class="td1">
                 <div class="cart-info">
                     <img src="images/product-10-1cupflask2.png" >
                     <div>
@@ -72,23 +72,23 @@
                     </div>
                 </div>
             </td>
-            <td><input type="number" value="1"></td>
-            <td>$8.00</td>
+            <td class="td1"><input type="number" value="1"></td>
+            <td class="td1">$8.00</td>
         </tr>
         <tr>
-            <td>
+            <td class="td1">
                 <div class="cart-info">
-                    <img src="images/product-1-phones-iphoneX-1-2.png" >
+                    <img src="images/product-1-phones-iphoneX-1-1.jpg" >
                     <div>
-                        <p>iPhone 7 plus</p>
-                        <small>Price: $900.00</small>
+                        <p>iPhone 12</p>
+                        <small>Price: $850.00</small>
                         <br>
                         <a href="">Remove</a>
                     </div>
                 </div>
             </td>
-            <td><input type="number" value="1"></td>
-            <td>$900.00</td>
+            <td class="td1"><input type="number" value="1"></td>
+            <td class="td1">$850.00</td>
         </tr>
     </table>
 
@@ -96,16 +96,16 @@
 
         <table>
             <tr>
-                <td>Subtotal</td>
-                <td>$1908.00</td>
+                <td class="td1">Subtotal</td>
+                <td class="td1">$1858.00</td>
             </tr>
             <tr>
-                <td>tax</td>
-                <td>$382.00</td>
+                <td class="td1">tax</td>
+                <td class="td1">$382.00</td>
             </tr>
             <tr>
-                <td>Total</td>
-                <td>$2290.00</td>
+                <td class="td1">Total</td>
+                <td class="td1">$2240.00</td>
             </tr>
         </table>
 
