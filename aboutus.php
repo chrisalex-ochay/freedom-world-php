@@ -47,17 +47,16 @@
                     </h3>
                     <br>
                     <h4 style="font-weight: bolder;">Our Vision</h4> 
-                    <p> Our vision is to serve, empower, enrich and produce and supply quality 
+                    <p> Our vision is to serve, empower, enrich, develop, produce and supply quality 
                         technologies, standard electronics and the finest accesories for local 
                         and global consumption. 
                     </p>
                     <br>
                     <h4 style="font-weight: bolder;">Our Mision</h4>
-                        <p>   Our mision is to provide services and empower every one in there 
-                            capacities from basic to advanced Technology, enrich ugandans, africans 
-                            and the world at large with standard and quatity technologies and 
-                            utilise all available resources in our societies to automate and 
-                            technologically make lives easy to live in this world.
+                        <p>   Our mision is to provide standard and quatity products and services so as to 
+                            empower, enrich every ugandan and the world at large in their 
+                            capacities from basic to advanced technologies while utilising all available 
+                            resources in our societies to automate and technologically make lives easier.
                         </p>
                 </div>
             </div>
@@ -68,37 +67,6 @@
     </div>
 </div>
 
-    <!-- <div class="aboutus-section">
-        <div class="container">
-            <div class="content-section col-2">
-                <div class="title">
-                    <h1>About Us</h1>
-                </div>
-                <div class="content">
-                    <h3>We are an I.T company who deal in quality and standard all-round I.T technological gadgets/materials
-                        and services. </h3><br>
-                    <h4 style="font-weight: bolder;">Our Vision</h4> 
-                       <p> Our vision is to serve, empower, enrich and produce and supply quality technologies, standard electronics and the finest
-                            accesories for local and global consumption. </p><br>
-                    <h4 style="font-weight: bolder;">Our Mision</h4>
-                        <p>   Our mision is to provide services and empower every one in there capacities from basic to advanced 
-                            Technology, enrich ugandans, africans and the world at large with standard and quatity technologies 
-                            and utilise all available resources in our societies to automate and technologically make 
-                            lives easy to live in this world.</p>
-                </div>
-                <div class="social">
-                    <a href=""><i class="fab fa-facebook"></i></a>
-                    <a href=""><i class="fab fa-twitter"></i></a>
-                    <a href=""><i class="fab fa-instagram"></i></a>
-                    <a href=""><i class="fab fa-youtube"></i></a>
-                    <a href=""><i class="fab fa-tiktok"></i></a>
-                </div>
-            </div>
-            <div class="image-section col-2">
-                <img src="images/aboutus-image.png" alt="">
-            </div>
-        </div>
-    </div> -->
     <!-- --------------------- about us ends --------------------------- -->
 
 <!-- --------------------- footer php link --------------------------- -->
