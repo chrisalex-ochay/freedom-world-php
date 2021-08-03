@@ -53,7 +53,7 @@
                     </p>
                     <br>
                     <h4 style="font-weight: bolder;">Our Mision</h4>
-                        <p>   Our mision is to provide standard and quatity products and services so as to 
+                        <p>Our mision is to provide standard and quatity products and services so as to 
                             empower, enrich every ugandan and the world at large in their 
                             capacities from basic to advanced technologies while utilising all available 
                             resources in our societies to automate and technologically make lives easier.
