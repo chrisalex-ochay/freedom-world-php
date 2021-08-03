@@ -85,7 +85,7 @@
             </div>
             <div class="col-4">
                 <a href="productfiles/product-36-earphones1-details.php"><img src="images/product-36-earphones1.jpg"></a>
-                <a href="productfiles/product-36-earphones1-details.php"><h4>Packaged good-bass earphones</h4></a>
+                <a href="productfiles/product-36-earphones1-details.php"><h4>Packaged earphones</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -192,8 +192,6 @@
 
 <!---------------    owl carousel js file cdn link    --------------->
 <script src="https:cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-
-<script src="main.js"></script>
 
 </body>
 </html>
