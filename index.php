@@ -69,7 +69,7 @@
             </div>
         </div>
         <div class="slide">
-            <img src="images/product-7-4ne-cable-chargers-1-rotated.jpg" alt="">
+            <img src="home-slider4.jpg">
             <div class="info-content">
                 <h2>High-class Accesories</h2>
                 <p>Your Home of Accessories, Electronics, Computers and  are all in one Place</p>
