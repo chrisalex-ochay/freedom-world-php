@@ -37,7 +37,38 @@
     
 <!-- --------------------- about us start --------------------------- -->
 
-    <div class="aboutus-section">
+<div class="aboutus">
+    <div class="container"> 
+        <h1 class="heading3"><span>ABOUT US</span></h1>
+        <div class="row">
+            <div class="col-2">
+                <div class="content">
+                    <h3>We are an all-round I.T and Electronics/Accessories Company with Standard and Quality Services. 
+                    </h3>
+                    <br>
+                    <h4 style="font-weight: bolder;">Our Vision</h4> 
+                    <p> Our vision is to serve, empower, enrich and produce and supply quality 
+                        technologies, standard electronics and the finest accesories for local 
+                        and global consumption. 
+                    </p>
+                    <br>
+                    <h4 style="font-weight: bolder;">Our Mision</h4>
+                        <p>   Our mision is to provide services and empower every one in there 
+                            capacities from basic to advanced Technology, enrich ugandans, africans 
+                            and the world at large with standard and quatity technologies and 
+                            utilise all available resources in our societies to automate and 
+                            technologically make lives easy to live in this world.
+                        </p>
+                </div>
+            </div>
+            <div class="col-2">
+                <img src="images/aboutus-image.png" width="100%">
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- <div class="aboutus-section">
         <div class="container">
             <div class="content-section col-2">
                 <div class="title">
@@ -47,7 +78,7 @@
                     <h3>We are an I.T company who deal in quality and standard all-round I.T technological gadgets/materials
                         and services. </h3><br>
                     <h4 style="font-weight: bolder;">Our Vision</h4> 
-                       <p> Our vision is to serve, empower, enrich and produce quality technologies, standard electronics and the finest
+                       <p> Our vision is to serve, empower, enrich and produce and supply quality technologies, standard electronics and the finest
                             accesories for local and global consumption. </p><br>
                     <h4 style="font-weight: bolder;">Our Mision</h4>
                         <p>   Our mision is to provide services and empower every one in there capacities from basic to advanced 
@@ -64,10 +95,10 @@
                 </div>
             </div>
             <div class="image-section col-2">
-                <img src="images/profile-pic-dummy.png" alt="">
+                <img src="images/aboutus-image.png" alt="">
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- --------------------- about us ends --------------------------- -->
 
 <!-- --------------------- footer php link --------------------------- -->
@@ -78,8 +109,6 @@
 
 <!---------------    owl carousel js file cdn link    --------------->
 <script src="https:cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-
-<script src="main.js"></script>
 
 
 </body>
