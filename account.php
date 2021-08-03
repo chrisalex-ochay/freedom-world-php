@@ -1,10 +1,12 @@
+<?php include('sendemailreg.php'); ?>
+
 <!DOCTYPE html>
 <html lang="en">
     <html lang="en">
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Login(account) - Freedom World Technolories & Accesories</title>
+            <title>Register/Login(account) - Freedom World Technolories & Accesories</title>
             <link rel="stylesheet" href="style.css">
         
             <!-- Link for awesome fonts cdn -->
@@ -34,6 +36,10 @@
     <!-- ------------------------- php header link --------------------------  -->
     <?php include('header2.php'); ?>
     
+<!-- -----------------alert messages start ------------- -->
+<?php echo $alert; ?>
+    
+<!-- -----------------alert messages end ------------- -->
 
 <!-----------------------------   Login/Register items details  ---------------------->
 
@@ -61,6 +67,7 @@
                     <form id="registerForm"> 
                         <input type="text" placeholder="Username">
                         <input type="email" placeholder="Email">
+                        <input type="tel" placeholder="Telephone">
                         <input type="password" placeholder="Password">
                         <button type="text" class="btn" disabled="disabled">Register</button>
                     </form>
@@ -101,6 +108,12 @@
         Indicator.style.transform = "translateX(0px)";
     }
 
+</script>
+
+<script type="text/javascript">
+    if(window.history.replaceState){
+        window.history.replaceState(null, null, window.location.href);
+    }
 </script>
 
 </body>
