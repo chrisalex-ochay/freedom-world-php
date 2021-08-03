@@ -11,80 +11,68 @@
                   <ul>
                       <li><a href="index.php"><span class="glyphicon glyphicon-home"></span>Home</a></li>
                       <li><a href="products-page1.php"><span class="glyphicon glyphicon-asterisk "></span>Products</a></li>
-                      <li><a href="#"><span class="glyphicon glyphicon-globe"></span>Services</a>
+                      <li><a href="services.php"><span class="glyphicon glyphicon-globe"></span>Services</a>
                         <i class="fa fa-sort-desc"></i>
                         <ul>
-                            <li><a href="#dealID">Website Development</a>
+                            <li><a href="services.php#webdev">Website Development</a>
                                 <i class="fa fa-sort-desc"></i>
                                 <ul>
-                                    <li><a href="#">Personal Website</a></li>
-                                    <li><a href="#">Company Website</a></li>
-                                    <li><a href="#">E-commerce Website</a></li>
-                                    <li><a href="#">NGO Website</a></li>
-                                    <li><a href="#">And More</a></li>
+                                    <li><a href="services.php#webdev">Personal Website</a></li>
+                                    <li><a href="services.php#webdev">Company Website</a></li>
+                                    <li><a href="services.php#webdev">E-commerce Website</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#dealID">Mobile App Development</a></li>
-                            <li><a href="#">Software/Systems Dev't</a>
+                            <li><a href="services.php#mobappdev">Mobile App Development</a></li>
+                            <li><a href="services.php#softwaredev">Software/Systems Dev't</a>
                                 <i class="fa fa-sort-desc"></i>
                                 <ul>
-                                    <li><a href="#">ERP program</a></li>
-                                    <li><a href="#">Sacco Mgt System</a></li>
-                                    <li><a href="#">POS system</a></li>
-                                    <li><a href="#">Any More</a></li>
+                                    <li><a href="services.php#softwaredev">ERP program</a></li>
+                                    <li><a href="services.php#softwaredev">Sacco Mgt System</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#dealID">Software Installations</a>
+                            <li><a href="services.php#softwareInstall">Software Installations</a>
                                 <i class="fa fa-sort-desc"></i>
                                 <ul>
-                                    <li><a href="#">Asycuda World</a></li>
-                                    <li><a href="#">MS Windows OS</a>
+                                    <li><a href="services.php#softwareInstall">Asycuda World</a></li>
+                                    <li><a href="services.php#softwareInstall">MS Windows OS</a>
                                         <i class="fa fa-sort-desc"></i>
                                         <ul>
-                                            <li><a href="#">Windows 10</a></li>
-                                            <li><a href="#">Windows 8.1</a></li>
-                                            <li><a href="#">Windows 8</a></li>
-                                            <li><a href="#">Windows 7</a></li>
-                                            <li><a href="#">Windows XP</a></li>
+                                            <li><a href="services.php#softwareInstall">Windows 10</a></li>
+                                            <li><a href="services.php#softwareInstall">Windows 8</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">Linux</a></li>
-                                    <li><a href="#">Microsoft office</a>
+                                    <li><a href="services.php#softwareInstall">Linux</a></li>
+                                    <li><a href="services.php#softwareInstall">Microsoft office</a>
                                         <i class="fa fa-sort-desc"></i>
                                         <ul>
-                                            <li><a href="#">Office 2019</a></li>
-                                            <li><a href="#">Office 2016</a></li>
-                                            <li><a href="#">Office 2013</a></li>
-                                            <li><a href="#">Office 2010</a></li>
-                                            <li><a href="#">Office 2007</a></li>
+                                            <li><a href="services.php#softwareInstall">Office 2019</a></li>
+                                            <li><a href="services.php#softwareInstall">Office 2016</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">Anti-virus</a></li>
-                                    <li><a href="#">And Many More</a></li>
+                                    <li><a href="services.php#softwareInstall">Anti-virus</a></li>
+                                    <li><a href="services.php#softwareInstall">And Many More</a></li>
                                 </ul>    
                             </li>
-                            <li><a href="#dealID">ISP services</a>
+                            <li><a href="services.php#ispServices">ISP services</a>
                                 <i class="fa fa-sort-desc"></i>
                                 <ul>
-                                    <li><a href="#">Zuku Internet</a></li>
-                                    <li><a href="#">Smart Mobile Internet</a></li>
-                                    <li><a href="#">Simba Telecom</a></li>
-                                    <li><a href="#">And Others</a></li>
+                                    <li><a href="services.php#ispServices">Zuku,Smart</a></li>
+                                    <li><a href="services.php#ispServices">And Others</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#dealID">Automatic Timetable Dev't</a></li>
-                            <li><a href="#dealID">Computer Literacy lessons</a>
+                            <li><a href="services.php#timetableAuto">Automatic Timetable Dev't</a></li>
+                            <li><a href="services.php#complessons">Computer Literacy lessons</a>
                                 <i class="fa fa-sort-desc"></i>
                                 <ul>
-                                    <li><a href="#">MS Word,Excel etc</a></li>
-                                    <li><a href="#">Programming</a></li>
-                                    <li><a href="#">Database</a></li>
-                                    <li><a href="#">And Others</a></li>
+                                    <li><a href="services.php#complessons">MS Word,Excel etc</a></li>
+                                    <li><a href="services.php#complessons">Programming</a></li>
+                                    <li><a href="services.php#complessons">Database</a></li>
+                                    <li><a href="services.php#complessons">And Others</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#dealID">Internet Cafe Services</a></li>
-                            <li><a href="#dealID">Phone/Computer Repairing</a></li>
-                            <li><a href="#dealID">General I.T consultacy</a></li>
+                            <li><a href="services.php#internetCafe">Internet Cafe Services</a></li>
+                            <li><a href="services.php#phoneRepaing">Phone/Computer Repairing</a></li>
+                            <li><a href="services.php#ictConsult">General I.T consultacy</a></li>
                         </ul>  
                       </li>
                       <li><a href="aboutus.php"><span class="glyphicon glyphicon-info-sign"></span>About Us</a></li>
