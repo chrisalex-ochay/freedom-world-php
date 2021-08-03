@@ -71,8 +71,8 @@
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
-                <i class="fa fa-star-half-o"></i>
                 <i class="fa fa-star-o"></i>
+                <i class="fa fa-star-half-o"></i>
             </div>
             <p>$200.00 - $1000.00</p>
         </div>
@@ -205,8 +205,8 @@
 
     <div class="row">
         <div class="col-4">
-            <a href="productfiles/product-13-A12samsung-details.php"><img src="images/product-13-samsungA21s1.png"></a>
-            <a href="productfiles/product-13-A12samsung-details.php"><h4>Samsung Phones- A21s</h4></a>
+            <a href="productfiles/product-13-A21samsung-details.php"><img src="images/product-13-samsungA21s1.png"></a>
+            <a href="productfiles/product-13-A21samsung-details.php"><h4>Samsung Phones- A21s</h4></a>
             <div class="rating">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -270,8 +270,6 @@
 
 <!---------------    owl carousel js file cdn link    --------------->
 <script src="https:cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-
-<script src="main.js"></script>
 
 </body>
 </html>
