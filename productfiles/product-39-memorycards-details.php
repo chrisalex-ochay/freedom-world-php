@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Used-Mifi - Freedom World Technolories & Accesories</title>
+    <title>MemoryCards1 - Freedom World Technolories & Accesories</title>
     <link rel="stylesheet" href="../style.css">
 
     <!-- Link for awesome fonts cdn -->
@@ -115,8 +115,8 @@
                 <p>$5.00-$50.00</p>
             </div>
             <div class="col-4">
-                <a href="../productfiles/product-13-A12samsung-details.php"><img src="../images/product-13-samsungA21s1.png"></a>
-                <a href="../productfiles/product-13-A12samsung-details.php"><h4>Samsung Phones- A21s</h4></a>
+                <a href="../productfiles/product-13-A21samsung-details.php"><img src="../images/product-13-samsungA21s1.png"></a>
+                <a href="../productfiles/product-13-A21samsung-details.php"><h4>Samsung Phones- A21s</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>

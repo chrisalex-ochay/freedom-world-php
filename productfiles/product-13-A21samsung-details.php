@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>iPhoneX - Freedom World Technolories & Accesories</title>
+    <title>A21s - Freedom World Technolories & Accesories</title>
     <link rel="stylesheet" href="../style.css">
 
     <!-- Link for awesome fonts cdn -->

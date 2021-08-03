@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Used-Mifi - Freedom World Technolories & Accesories</title>
+    <title>Laptops - Freedom World Technolories & Accesories</title>
     <link rel="stylesheet" href="../style.css">
 
     <!-- Link for awesome fonts cdn -->
@@ -65,7 +65,7 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>Both mini laptops and Wide screen laptops 14inch to 19inch <br>
+                <p>Both mini laptops and Wide screen laptops 14inches to 19inches <br>
                    from 80 giga bytes to 2000 gigabytes(2 terabytes) of harddisk, <br>
                    from 512 megabytes to 12 gigabytes of RAM <br>
                    with all types of brands i.e LENOVO, HP, DELL, TOSHIBA, ACER, AIRBOOK, Microsoft SURFACE etc
@@ -124,7 +124,7 @@
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-1-iphonex-details.php"><img src="../images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhoneX</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -132,7 +132,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$600.00-$1000.00</p>
+                <p>$850.00</p>
             </div>
         </div>
 

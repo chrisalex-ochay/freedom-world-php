@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Used-Mifi - Freedom World Technolories & Accesories</title>
+    <title>Flashes - Freedom World Technolories & Accesories</title>
     <link rel="stylesheet" href="../style.css">
 
     <!-- Link for awesome fonts cdn -->
@@ -113,15 +113,15 @@
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-1-iphonex-details.php"><img src="../images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhoneX</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
                 </div>
-                <p>$999.00-$1000.00</p>
+                <p>$850.00</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
