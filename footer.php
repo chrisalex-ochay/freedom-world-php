@@ -18,17 +18,16 @@
                 </div>
                 <div class="footer-col-3">
                     <h3>Quality Products</h3>
-                    <ul>
+                    <ul class="ul1">
                         <li><a href="../products-page1.php">Page1</a></li>
                         <li><a href="../products-page2.php">Page2</a></li>
                         <li><a href="../products-page3.php">Page3</a></li>
-                        <li><a href="../index.php#featuredID">Featured prdts</a></li>
-                        <li><a href="../index.php#latestID">Latest prdts</a></li>
+                        <li><a href="../index.php">Featured prdts</a></li>
                     </ul>
                 </div>
                 <div class="footer-col-4">
                     <h3>Alternatitive links</h3>
-                    <ul>
+                    <ul class="ul1">
                         <li><a href="../index.php">Home</a></li>
                         <li><a href="../aboutus.php">Our Mision/Vision</a></li>
                         <li><a href="../contactus.php">Connect with us</a></li>
@@ -38,7 +37,7 @@
                 </div>
                 <div class="footer-col-5">
                     <h3>Follow us</h3>
-                    <ul>
+                    <ul class="ul1">
                         <li>Facebook</li>
                         <li>Twitter</li>
                         <li>Instagram</li>
