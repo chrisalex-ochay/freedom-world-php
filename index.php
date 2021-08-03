@@ -24,6 +24,9 @@
 
     <!-- fontawesome cdn -->
     <link rel="stylesheet" type="text/css" href="https:cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" 
+    integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!-- Bootstrap and J-query library links -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -38,49 +41,60 @@
 
 
 <!----------------    home section starts    ---------------->
-<section class="home" id="home">
-    <div class="home-slider owl-carousel">
-        <div class="item">
+<section class="home-slider" id="home">
+
+    <div class="slider">
+        <div class="slide active">
             <img src="images/hm-img1.jpg" alt="">
-            <div class="content">
-                <h3>Latest Gadgets</h3>
-                <p>Available in both Retail and<br> Wholesale, click discover</p>
+            <div class="info-content">
+                <h2>Latest Gadgets</h2>
+                <p>All available in both Retail and Wholesale, click Discover for more.</p>
                 <a href="#latestID"><button class="btn">discover</button></a>
             </div>
         </div> 
-         <!--<div class="item">
+        <div class="slide">
             <img src="images/home3-work22.jpg" alt="">
-            <div class="content">
-                <h3>Quality Products</h3>
+            <div class="info-content">
+                <h2>Quality Products</h2>
                 <p>In need of New Laptops/Phones/Tablets.</p>
-                <a href="#latestID"><button class="btn">discover</button></a>
+                <a href="#featuredID"><button class="btn">discover</button></a>
             </div>
         </div>
-        <div class="item">
-            <img src="images/home-image3.jpg" alt="">
-            <div class="content">
-                <h3>Trending electronics</h3>
+        <div class="slide">
+            <img src="images/deal2-work1.jpg" alt="">
+            <div class="info-content">
+                <h2>Trending electronics</h2>
                 <p>For all your desired and trending and high quality electronics</p>
                 <a href="#featuredID"><button class="btn">discover</button></a>
             </div>
         </div>
-        <div class="item">
-            <img src="images/combine_images_2_-removebg-preview.png" alt="">
-            <div class="content">
-                <h3>High-class Accesories</h3>
+        <div class="slide">
+            <img src="images/product-7-4ne-cable-chargers-1-rotated.jpg" alt="">
+            <div class="info-content">
+                <h2>High-class Accesories</h2>
                 <p>Your Home of Accessories, Electronics, Computers and  are all in one Place</p>
-                <a href="#latestID"><button class="btn">discover</button></a>
+                <a href="#latestID2"><button class="btn">discover</button></a>
             </div>
         </div> 
-        <div class="item">
+        <div class="slide">
             <img src="images/deal1-work1.jpg" alt="">
-            <div class="content">
-                <h3>Best Services</h3>
+            <div class="info-content">
+                <h2>Best Services</h2>
                 <p>For all your I.T needs we have got you covered, check us out below</p>
                 <a href="#dealID"><button class="btn">discover</button></a>
             </div>
-        </div> -->
-
+        </div>
+        <div class="navigation">
+            <i class="fas fa-chevron-left prev-btn"></i>
+            <i class="fas fa-chevron-right next-btn"></i>
+        </div>
+        <div class="navigation-visibility">
+            <div class="slide-icon active"></div>
+            <div class="slide-icon"></div>
+            <div class="slide-icon"></div>
+            <div class="slide-icon"></div>
+            <div class="slide-icon"></div>
+        </div>
     </div>
 </section>
 <!-----------------    home section ends    ----------------->
@@ -167,7 +181,7 @@
             </div>
             <div class="col-4">
                 <a href="productfiles/product-1-iphonex-details.php"><img src="images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="productfiles/product-1-iphonex-details.php"><h4>iPhoneX</h4></a>
+                <a href="productfiles/product-1-iphonex-details.php"><h4>iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -175,7 +189,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$1000.00-$1500.00</p>
+                <p>$850.00</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-16-headphonestm-details.php"><img src="images/product-16-headphones-tm1.png"></a>
@@ -190,7 +204,7 @@
                 <p>$8.00-$20.00</p>
             </div>
         </div>
-        <div class="row">
+        <div class="row" id="latestID2">
             <div class="col-4">
                 <a href="productfiles/product-12-percolator1-details.php"><img src="images/product-12-percolator-mylong1.png"></a>
                 <a href="productfiles/product-12-percolator1-details.php"><h4>Percolator-MyLong</h4></a>
@@ -269,20 +283,20 @@
     <div class="box-container">
 
         <div class="box">
-            <img src="images/deal1-work1.jpg" alt="">
+            <img src="images/deal1-web-dev2.png" alt="">
             <div class="content">
                 <h3>Website Development</h3>
                 <p>We provide webhosting, developemnt designing</p>
-                <a href="#"><button class="btn" disabled>explore</button></a>
+                <a href="services.php#webdev"><button class="btn">explore</button></a>
             </div>
         </div>
 
         <div class="box">
-            <img src="images/deal2-work1.jpg" alt="">
+            <img src="images/deal2-mobile-app-devt1.png" alt="">
             <div class="content">
                 <h3>Mobile App Development</h3>
                 <p>We develop mobile Apps for Android & OS-platform</p>
-                <a href="#"><button class="btn" disabled>explore</button></a>
+                <a href="services.php#mobappdev"><button class="btn">explore</button></a>
             </div>
         </div>
         <div class="box">
@@ -290,33 +304,33 @@
             <div class="content">
                 <h3>Software Development</h3>
                 <p>we create or maintain systems like ERPs </p>
-                <a href="#"><button class="btn" disabled>explore</button></a>
+                <a href="services.php#softwaredev"><button class="btn">explore</button></a>
             </div>
         </div>
 
         <div class="box">
-            <img src="images/deal2.jpg" alt="">
+            <img src="images/deal4-install-softwares1.jpg" alt="">
             <div class="content">
-                <h3>Asycuda Installations</h3>
-                <p>Software Installations, Linux & Windows 10 or others, Anti-viruses</p>
-                <a href="#"><button class="btn" disabled>explore</button></a>
+                <h3>Software Installations</h3>
+                <p>Asycuda Installations, Linux & Windows 10 or others, Anti-viruses</p>
+                <a href="services.php#softwareInstall"><button class="btn">explore</button></a>
             </div>
         </div>
         <div class="box">
-            <img src="images/deal1.jpg" alt="">
+            <img src="images/deal5-ISP-Broadband1.jpg" alt="">
             <div class="content">
                 <h3>ISP services</h3>
                 <p>Internet Service Provider services </p>
-                <a href="#"><button class="btn" disabled>explore</button></a>
+                <a href="services.php#ispServices"><button class="btn">explore</button></a>
             </div>
         </div>
 
         <div class="box">
-            <img src="images/deal5-timetable-software1.jpg" alt="">
+            <img src="images/deal6-GBN-Timetable-.png" alt="">
             <div class="content">
                 <h3>Timetable Automation</h3>
                 <p>we deal in automation of tabletables for all institutions</p>
-                <a href="#"><button class="btn" disabled>explore</button></a>
+                <a href="services.php#timetableAuto"><button class="btn">explore</button></a>
             </div>
         </div>
         <div class="box">
@@ -324,33 +338,33 @@
             <div class="content">
                 <h3>Computer Literacy Lessons</h3>
                 <p>Computer fundamentals for all categories from children to adults </p>
-                <a href="#"><button class="btn" disabled>explore</button></a>
+                <a href="services.php#complessons"><button class="btn">explore</button></a>
             </div>
         </div>
 
         <div class="box">
-            <img src="images/images1.png" alt="">
+            <img src="images/deal8-cafe-computers1.jpg" alt="">
             <div class="content">
                 <h3>Internet Cafe Services</h3>
                 <p>Need of high speed internet for live streaming and many more</p>
-                <a href="#"><button class="btn" disabled>explore</button></a>
+                <a href="services.php#internetCafe"><button class="btn">explore</button></a>
             </div>
         </div>
         <div class="box">
-            <img src="images/deal1.jpg" alt="">
+            <img src="images/deal9-computer-repairing2.jpg" alt="">
             <div class="content">
                 <h3>Phone/Computer Repairing</h3>
                 <p>we handle all types of repairing of phones and computers </p>
-                <a href="#"><button class="btn" disabled>explore</button></a>
+                <a href="services.php#phoneRepaing"><button class="btn">explore</button></a>
             </div>
         </div>
 
         <div class="box">
-            <img src="images/deal2.jpg" alt="">
+            <img src="images/deal10-ICT-consultancy1.png" alt="">
             <div class="content">
                 <h3>General I.T consultancy</h3>
                 <p>we advice on how to go about the changing Technologies</p>
-                <a href="#"><button class="btn" disabled>explore</button></a>
+                <a href="services.php#ictConsult"><button class="btn">explore</button></a>
             </div>
         </div> 
     </div>
@@ -417,10 +431,81 @@
 <!---------------    jquery cdn link    --------------->
 <script src="https:cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-<!---------------    owl carousel js file cdn link    --------------->
-<script src="https:cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script type="text/javascript">
+    const slider = document.querySelector(".slider");
+    const nextBtn = document.querySelector(".next-btn");
+    const prevBtn = document.querySelector(".prev-btn");
+    const slides = document.querySelectorAll(".slide");
+    const slideIcons = document.querySelectorAll(".slide-icon");
+    const numberOfSlides = slides.length;
+    var slideNumber = 0;
 
-<script src="main.js"></script>
+    // image slider next button
+    nextBtn.addEventListener("click", ()=> {
+        slides.forEach((slide) => {
+            slide.classList.remove("active");
+        });
+        slideIcons.forEach((slideIcon) => {
+            slideIcon.classList.remove("active"); 
+        });
+        slideNumber++;
+
+        if(slideNumber > (numberOfSlides - 1)){
+            slideNumber = 0; 
+        }
+        slides[slideNumber].classList.add("active");
+        slideIcons[slideNumber].classList.add("active");
+    });
+
+    // image slider previous button
+    prevBtn.addEventListener("click", ()=> {
+        slides.forEach((slide) => {
+            slide.classList.remove("active");
+        });
+        slideIcons.forEach((slideIcon) => {
+            slideIcon.classList.remove("active"); 
+        });
+        slideNumber--;
+
+        if(slideNumber < 0){
+            slideNumber = numberOfSlides - 1; 
+        }
+        slides[slideNumber].classList.add("active");
+        slideIcons[slideNumber].classList.add("active");
+    });
+
+    //Image AutoPlay
+    var playSlider;
+    var repeater = () => {
+        playSlider = setInterval(function(){
+            slides.forEach((slide) => {
+            slide.classList.remove("active");
+            });
+            slideIcons.forEach((slideIcon) => {
+                slideIcon.classList.remove("active"); 
+            });
+            slideNumber++;
+
+            if(slideNumber > (numberOfSlides - 1)){
+                slideNumber = 0; 
+            }
+            slides[slideNumber].classList.add("active");
+            slideIcons[slideNumber].classList.add("active");
+        }, 3500);
+    }
+    repeater();
+
+    //stop the mouse autoplay on mouseover
+    slider.addEventListener("mouseover", () => {
+        clearInterval(playSlider);
+    });
+
+    //start the image slider autoplay again on mouseout
+    slider.addEventListener("mouseout", () => {
+        repeater();
+    });
+
+</script>
 
 </body>
 </html>
