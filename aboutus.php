@@ -58,7 +58,7 @@
                             capacities from basic to advanced technologies while utilising all available 
                             resources in our societies to automate and technologically make lives easier.
                         </p>
-                </div>
+                </div> 
             </div>
             <div class="col-2">
                 <img src="images/aboutus-image.png" width="100%">
