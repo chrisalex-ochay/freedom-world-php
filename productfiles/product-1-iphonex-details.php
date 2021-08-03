@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Used-Mifi - Freedom World Technolories & Accesories</title>
+    <title>iPhone12 - Freedom World Technolories & Accesories</title>
     <link rel="stylesheet" href="../style.css">
 
     <!-- Link for awesome fonts cdn -->
@@ -36,27 +36,33 @@
     <div class="small-container single-product">
         <div class="row">
             <div class="col-2">
-                <img src="../images/product-1-phones-iphoneX-1-1.png" width="100%" id="ProductImg">
+                <img src="../images/product-1-phones-iphoneX-1-1.jpg" width="100%" id="ProductImg">
 
                 <div class="small-img-row">
                     <div class="small-img-col">
-                        <img src="../images/product-1-phones-iphoneX-1-1.png" width="100%" class="small-img">
+                        <img src="../images/product-1-phones-iphoneX-1-1.jpg" width="100%" class="small-img">
                     </div>
                     <div class="small-img-col">
-                        <img src="../images/product-1-phones-iphoneX-1-2.png" width="100%" class="small-img">
+                        <img src="../images/product-1-phones-iphoneX-1-2.jpg" width="100%" class="small-img">
                     </div>
                     <div class="small-img-col">
                         <img src="../images/product-1-phones-iphoneX-1-3.jpg" width="100%" class="small-img">
                     </div>
+                    <div class="small-img-col">
+                        <img src="../images/product-1-phones-iphoneX-1-4.jpg" width="100%" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="../images/product-1-phones-iphoneX-1-5.jpg" width="100%" class="small-img">
+                    </div>
                 </div>
             </div>
             <div class="col-2">
-                <p>iPhoneX</p>
-                <h1>Nice Blue iPhoneX</h1>
-                <h4>$1000.00</h4>
+                <p>iPhone 12</p>
+                <h1>New Apple iPhone 12 64 GB White</h1>
+                <h4>$850.00</h4>
                 <select>
                     <option>Select Color</option>
-                    <option>Blue</option>
+                    <option>White</option>
                     <option>Black</option>
                     <option>Gold</option>
                 </select>
@@ -65,11 +71,14 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it consists of 128gbs of internal memory, <br>
-                    it is 6-inch with a 4G network, <br>
-                    8mega pixel front camera <br>
-                    16mega pixel back camera.
-                </p>
+                <ol>
+                    <li>it consists of 128gbs of internal memory</li>
+                    <li>it is 5.1-6 inches of the screen size</li>
+                    <li>Single Nano-SIM</li>
+                    <li>12mega pixel front/selfie camera</li>
+                    <li>12mega pixel main back camera</li>
+                    <li>Battery is 2775 mAh</li>
+                </ol>
             </div>
         </div>
     </div>
@@ -158,6 +167,12 @@
         }
         SmallImg[3].onclick = function(){
             ProductImg.src = SmallImg[3].src;
+        }
+        SmallImg[4].onclick = function(){
+            ProductImg.src = SmallImg[4].src;
+        }
+        SmallImg[5].onclick = function(){
+            ProductImg.src = SmallImg[5].src;
         }
 
     </script>
