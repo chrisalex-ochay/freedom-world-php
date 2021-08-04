@@ -59,7 +59,7 @@
             <div class="col-2">
                 <p>iPhone 12</p>
                 <h1>New Apple iPhone 12 64 GB White</h1>
-                <h4>$850.00</h4>
+                <h4>3,100,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>White</option>
