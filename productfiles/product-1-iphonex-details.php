@@ -71,14 +71,14 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <ol>
+                <ul>
                     <li>it consists of 128gbs of internal memory</li>
                     <li>it is 5.1-6 inches of the screen size</li>
                     <li>Single Nano-SIM</li>
                     <li>12mega pixel front/selfie camera</li>
                     <li>12mega pixel main back camera</li>
                     <li>Battery is 2775 mAh</li>
-                </ol>
+                </ul>
             </div>
         </div>
     </div>
@@ -105,7 +105,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$600.00-$1000.00</p>
+                <p>800,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-28-phonecovers1-details.php"><img src="../images/product-28-phone-backcovers1.png"></a>
@@ -117,7 +117,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$15.00</p>
+                <p>10,000-35,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-31-simtablets-details.php"><img src="../images/product-31-simcard-enabled-tablets1.png"></a>
@@ -129,11 +129,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$60.00-$230.00</p>
+                <p>320,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>Laptop</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New HP Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -141,7 +141,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
         </div>
 
