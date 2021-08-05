@@ -105,7 +105,7 @@
         <div class="row">
             <div class="col-4">
                 <a href="productfiles/product-2-laptop-details.php"><img src="images/product-2-laptop1.png"></a>
-                <a href="productfiles/product-2-laptop-details.php"><h4>Laptop</h4></a>
+                <a href="productfiles/product-2-laptop-details.php"><h4>New HP Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -113,7 +113,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                 </div>
-                <p>$1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-4-flask-details.php"> <img src="images/product-4-flask2.5-stainless-1.png"></a>
@@ -125,7 +125,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$18.00-$24.00</p>
+                <p>75,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-5-blender-details.php"><img src="images/product-5-blender-zaiba-1.png"></a>
@@ -137,7 +137,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-            <p>$40.00-$50.00</p>
+            <p>135,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-6-minispeaker-details.php"><img src="images/product-6-bluetooth-speaker-oval1.png"></a>
@@ -149,7 +149,7 @@
                 <i class="fa fa-star-half-o"></i>
                 <i class="fa fa-star-o"></i>
             </div>
-            <p>$18.00-$25.00</p>
+            <p>60,000 Ushs</p>
             </div>
         </div>
         <h2 class="title">Latest Products</h2>
@@ -165,7 +165,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$10.00</p>
+                <p>25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-14-mibox-details.php"><img src="images/product-14-Mi-Box1.png"></a>
@@ -177,11 +177,11 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$90.00-$110.00</p>
+                <p>350,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-1-iphonex-details.php"><img src="images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="productfiles/product-1-iphonex-details.php"><h4>iPhone12</h4></a>
+                <a href="productfiles/product-1-iphonex-details.php"><h4>New iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -189,11 +189,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$850.00</p>
+                <p>3,100,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-16-headphonestm-details.php"><img src="images/product-16-headphones-tm1.png"></a>
-                <a href="productfiles/product-16-headphonestm-details.php"><h4>Head-phones</h4></a>
+                <a href="productfiles/product-16-headphonestm-details.php"><h4>TM-Head-phones</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -201,7 +201,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$20.00</p>
+                <p>55,000 Ushs</p>
             </div>
         </div>
         <div class="row" id="latestID2">
@@ -215,7 +215,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$22.00-$30.00</p>
+                <p>70,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-18-chargerovs-details.php"><img src="images/product-18-multi-charer-ovs1.png"></a>
@@ -227,7 +227,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>14,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-20-screenguards-details.php"><img src="images/product-20-glass-screenguards1.png"></a>
@@ -239,7 +239,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$8.00</p>
+                <p>10,000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-22-mug1-details.php"><img src="images/product-22-mug-traveling-cup1.png"></a>
@@ -251,7 +251,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$15.00</p>
+                <p>24,000 Ushs</p>
             </div>
         </div>
     </div>
@@ -275,7 +275,7 @@
             </div>
         </div>
     </div>
-
+    
 <!-- --------------------------- best deals services start-----------------  -->
 
 <section class="deal" id="dealID">
