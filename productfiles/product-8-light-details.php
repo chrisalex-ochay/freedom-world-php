@@ -54,22 +54,23 @@
             <div class="col-2">
                 <p>Emergency Lamp</p>
                 <h1>Rechargeable Emergency Light</h1>
-                <h4>$12.00-$15.00</h4>
+                <h4>40,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>white</option>
                 </select>
                 <input type="number" value="1">
                 <a href="" class="btn">Add to Cart</a>
-
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it is an emergency lamp rechargeable by electricity or Solar(if you have solar pins), <br>
-                it has a very good bright light, in two levels, a bright and super bright one <br> 
-                    when fully charged take between 4hrs to 12hrs according to how you use it, <br>
-                    other customer tell me, sometime theirs take 3 days, it also has a usb port where<br>
-                    you can charge you phone incase of a blackout.
-                </p>
+                    <ul>
+                        <li>it is an emergency lamp rechargeable by electricity or Solar(if you have solar pins),</li>
+                        <li>it has a very good bright light, in two levels, a bright and super bright one </li>
+                        <li>when fully charged take between 4hrs to 12hrs according to how you use it, </li>
+                        <li>other customer tell me, sometime theirs take 3 days,</li>
+                        <li>it also has a usb port where</li>
+                        <li>you can charge you phone incase of a blackout.</li>
+                    </ul>
             </div>
         </div>
     </div>
@@ -88,7 +89,7 @@
         <div class="row">
             <div class="col-4">
                 <a href="../productfiles/product-3-bulb-details.php"><img src="../images/product-3-bulb1.png"></a>
-                <a href="../productfiles/product-3-bulb-details.php"><h4>Rechargeable - Emergency Bulb</h4></a>
+                <a href="../productfiles/product-3-bulb-details.php"><h4>Rechargeable Bulb</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -96,7 +97,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$6.00-$10.00</p>
+                <p>25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-5-blender-details.php"><img src="../images/product-5-blender-zaiba-1.png"></a>
@@ -108,7 +109,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$50.00</p>
+                <p>135,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-18-chargerovs-details.php"><img src="../images/product-18-multi-charer-ovs1.png"></a>
@@ -120,7 +121,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>14,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-19-headphonesjbl1-details.php"><img src="../images/product-19-headphones-jbl1.png"></a>
@@ -132,7 +133,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>60,000 Ushs</p>
             </div>
         </div>
 
