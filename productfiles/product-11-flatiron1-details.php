@@ -55,7 +55,7 @@
             <div class="col-2">
                 <p>Flatiron</p>
                 <h1>An Original Phillips Dry-iron</h1>
-                <h4>$20.50-$25.00</h4>
+                <h4>75,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>white</option>
@@ -65,12 +65,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>This is an original phillips Flatiron, <br>
-                    it has a pointed groove speeds up ironing long buttons and seams<br>
-                    with a non-stick soleplate coating and its cord is 1.9 meter length<br>
-                    very strong, durable, long lasting and and with a strong powerful-fuse plug <br> 
-                    
-                </p>
+                <ul>
+                    <li>This is an original phillips Flatiron,</li>
+                    <li>it has a pointed groove speeds up ironing long buttons and seams</li>
+                    <li>with a non-stick soleplate coating and its cord is 1.9 meter length</li>
+                    <li>very strong, durable, long lasting and and with a strong powerful-fuse plug </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -97,7 +97,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$22.50-$27.00</p>
+                <p>85,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-6-minispeaker-details.php"><img src="../images/product-6-bluetooth-speaker-oval1.png"></a>
@@ -109,7 +109,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$18.00-$25.00</p>
+                <p>60,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-26-plugs1-details.php"><img src="../images/product-26-plugs1.png"></a>
@@ -121,7 +121,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>5,000-15,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-27-adapters1-details.php"><img src="../images/product-27-adapters1.png"></a>
@@ -133,7 +133,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>10,000-25,000 Ushs</p>
             </div>
         </div>
 
