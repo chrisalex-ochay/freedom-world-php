@@ -60,7 +60,7 @@
             <div class="col-2">
                 <p>Unbreakable Stainless Flask</p>
                 <h1>A Stainless Vacuumless 2.5 ltr Flask</h1>
-                <h4>$18.00-$24.00</h4>
+                <h4>75,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>stainless color</option>
@@ -71,11 +71,11 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>A very durable and unbreakable flask with 2.5 liters <br>
-                   it keeps both hot and cold water(tea and most liduids), <br>
-                   hot water is kept for 24hours when hot and the same to cold water<br>
-                  
-                </p>
+                <ul>
+                    <li>A very durable and unbreakable flask with 2.5 liters</li>
+                    <li>it keeps both hot and cold water(tea and most liduids),</li>
+                    <li>hot water is kept for 24hours when hot and the same to cold water</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -102,7 +102,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$6.00-$15.00</p>
+                <p>23,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-10-cupflask1-details.php"><img src="../images/product-10-1cupflask1.png"></a>
@@ -114,7 +114,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$10.00</p>
+                <p>25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-22-mug1-details.php"><img src="../images/product-22-mug-traveling-cup1.png"></a>
@@ -126,7 +126,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$12.00</p>
+                <p>24,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-23-blendersaachi-details.php"><img src="../images/product-23-blender-saachi-1.png"></a>
@@ -138,7 +138,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$50.50-$60.00</p>
+                <p>180,000 Ushs</p>
             </div>
         </div>
 
