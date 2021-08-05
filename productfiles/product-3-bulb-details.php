@@ -60,7 +60,7 @@
             <div class="col-2">
                 <p>Emergency Rechargeable Bulbs</p>
                 <h1>Rechargeable Bulb with removable bulbs</h1>
-                <h4>$6.00 - $10.00</h4>
+                <h4>25,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>White only</option>
@@ -71,11 +71,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it is an emergency rechargeable bulb which remains lighting even when power goes, <br>
-                   it has 1 pair of rechargeable batteries which store power to be used when power is gone <br>
-                   it is unbreakable and also it is long lasting <br>
-                   it comes in 10 watts & 20 watts 
-                </p>
+                <ul>
+                    <li>it is an emergency rechargeable bulb which remains lighting even when power goes,</li>
+                    <li>it has 1 pair of rechargeable batteries which store power to be used when power is gone </li>
+                    <li>it is unbreakable and also it is long lasting </li>
+                    <li>it comes in 10 watts & 20 watts </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -102,7 +103,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$12.00-$15.00</p>
+                <p>40,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-6-minispeaker-details.php"><img src="../images/product-6-bluetooth-speaker-oval1.png"></a>
@@ -114,7 +115,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$18.00-$25.00</p>
+                <p>60,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-7-charger-details.php"><img src="../images/product-7-4ne-cable-chargers-1.jpg"></a>
@@ -126,11 +127,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$15.00</p>
+                <p>5000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-1-iphonex-details.php"><img src="../images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhone12</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -138,7 +139,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$850.00</p>
+                <p>3,100,000 Ushs</p>
             </div>
         </div>
 
