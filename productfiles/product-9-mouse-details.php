@@ -51,7 +51,7 @@
             <div class="col-2">
                 <p>all types of mouse</p>
                 <h1>Wireless & Wire Mouse</h1>
-                <h4>$5.00-$15.00</h4>
+                <h4>18,000-60,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Blue</option>
@@ -60,14 +60,14 @@
                 </select>
                 <input type="number" value="1">
                 <a href="" class="btn">Add to Cart</a>
-
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>We have both Wireless and Connected(Wire) mouse, <br>
-                   our mouse are tested and approved by our esteemed clients <br> 
-                   our products(mouse) have a good sensor, reliable and durable <br>
-                   contact us for more info.
-                </p>
+                    <ul>
+                        <li>We have both Wireless and Connected(Wire) mouse,</li>
+                        <li>our mouse are tested and approved by our esteemed clients</li>
+                        <li>our products(mouse) have a good sensor, reliable and durable </li>
+                        <li>contact us for more info.</li>
+                    </ul>
             </div>
         </div>
     </div>
@@ -86,7 +86,7 @@
         <div class="row">
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
-                <a href="../productfiles/product-2-laptop-details.php"><h4>Laptop</h4></a>
+                <a href="../productfiles/product-2-laptop-details.php"><h4>New Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -94,7 +94,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-24-laptopbug-details.php"><img src="../images/product-24-laptop-bug-1.png"></a>
@@ -106,7 +106,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$14.00-$24.00</p>
+                <p>60,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-22-mug1-details.php"><img src="../images/product-22-mug-traveling-cup1.png"></a>
@@ -118,7 +118,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$12.00</p>
+                <p>24,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-12-percolator1-details.php"><img src="../images/product-12-percolator-mylong1.png"></a>
@@ -130,12 +130,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$22.00-$40.00</p>
+                <p>70,000 Ushs</p>
             </div>
         </div>
 
     </div>
-
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
 
