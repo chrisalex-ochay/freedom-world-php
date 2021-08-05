@@ -44,9 +44,9 @@
                 </div>
             </div>
             <div class="col-2">
-                <p>Sumsang Galaxy A21s</p>
+                <p>An Original Sumsang Galaxy A21s</p>
                 <h1>Sumsang Galaxy A21s</h1>
-                <h4>$215.00-$270.00</h4>
+                <h4>780,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Blue</option>
@@ -57,12 +57,14 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p> its a 4G-LTE/HSPA/GSM netowrk<br>
-                    it is a sumsang galaxy a21s Android 9 or 10,  <br>
-                   its size is 6.5 inches screen with a battery of 5000mAh <br> 
-                   its a single sim nano-sim card <br>
-                with and internal memory of 64gbs and 4gbs of ram with a camera of quad 48mp
-                </p>
+                <ul>
+                    <li>it is a sumsang galaxy a21s Android 9 or 10,  </li>
+                    <li>it has clear HD camera for flont and Back Camera</li>
+                    <li>its a 4G-LTE/HSPA/GSM netowrk</li>
+                    <li>its size is 6.5 inches screen with a battery of 5000mAh </li>
+                    <li>its a single sim nano-sim card </li>
+                    <li>with and internal memory of 64gbs and 4gbs of ram</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -89,11 +91,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$600.00-$1000.00</p>
+                <p>800,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>Laptop</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New HP Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -101,7 +103,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-34-newmifi-details.php"><img src="../images/product-34-New-4G-unlocked-mifi-1.jpg"></a>
@@ -113,7 +115,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$70.00</p>
+                <p>150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-41-otg-adapter-details.php"><img src="../images/product-41-OTG-adapter-1.jpg"></a>
@@ -125,7 +127,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$50.00</p>
+                <p>8,000-25,000 Ushs</p>
             </div>
         </div>
 
