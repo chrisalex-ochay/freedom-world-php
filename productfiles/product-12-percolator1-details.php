@@ -63,7 +63,7 @@
             <div class="col-2">
                 <p>Percolators</p>
                 <h1>Percolator-MyLong</h1>
-                <h4>$22.00-$40.00</h4>
+                <h4>70,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>white</option>
@@ -76,11 +76,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>My long Percolator is a strong 2.3 litres percolator <br>
-                    it is an automatic shutdown when water is done boiling <br> 
-                    it is easy to use and boils water very fast.<br>
-                    it is long lasting and very reliable yet affordable
-                </p>
+                <ul>
+                    <li>My long Percolator is a strong 2.3 litres percolator </li>
+                    <li>it is an automatic shutdown when water is done boiling </li>
+                    <li>it is easy to use and boils water very fast.</li>
+                    <li>it is long lasting and very reliable yet affordable</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -107,7 +108,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$12.00-$35.00</p>
+                <p>40,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-29-extensions1-details.php"><img src="../images/product-29-extensions-1.png"></a>
@@ -119,7 +120,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$10.00-$25.00</p>
+                <p>28,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-22-mug1-details.php"><img src="../images/product-22-mug-traveling-cup1.png"></a>
@@ -131,7 +132,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$12.00</p>
+                <p>24,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-5-blender-details.php"><img src="../images/product-5-blender-zaiba-1.png"></a>
@@ -143,7 +144,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$50.00</p>
+                <p>135,000 Ushs</p>
             </div>
         </div>
 
