@@ -51,9 +51,9 @@
                 </div>
             </div>
             <div class="col-2">
-                <p>Laptops of All colors</p>
-                <h1>New Laptops & Used UK laptops</h1>
-                <h4>$200.00 - $1000.00</h4>
+                <p>Laptops of All colors & Used UK laptops</p>
+                <h1>New HP Laptops hp250g7</h1>
+                <h4>2,900,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -65,7 +65,15 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>Both mini laptops and Wide screen laptops 14inches to 19inches <br>
+                <ul>
+                    <li>it a black HP new laptop HP-250G7</li>
+                    <li>it is 1000 GBs of hard-disk </li>
+                    <li>it is an i5 core processor with 8 gbs of RAM </li>
+                    <li>it has 4 usb-ports with more than 4hrs of Battery</li>
+                    <li>its screen size is 15.6 inches</li>
+                    <li>and lastly it is a 10th-generation Laptop</li>
+                </ul>
+                <p>We also have both mini laptops and Wide screen laptops 14inches to 19inches <br>
                    from 80 giga bytes to 2000 gigabytes(2 terabytes) of harddisk, <br>
                    from 512 megabytes to 12 gigabytes of RAM <br>
                    with all types of brands i.e LENOVO, HP, DELL, TOSHIBA, ACER, AIRBOOK, Microsoft SURFACE etc
@@ -96,7 +104,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$22.00-$70.00</p>
+                <p>60,000-150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-34-newmifi-details.php"><img src="../images/product-34-New-4G-unlocked-mifi-1.jpg"></a>
@@ -108,7 +116,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$70.00</p>
+                <p>150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-31-simtablets-details.php"><img src="../images/product-31-simcard-enabled-tablets1.png"></a>
@@ -120,11 +128,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$60.00-$230.00</p>
+                <p>320,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-1-iphonex-details.php"><img src="../images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhone12</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -132,7 +140,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$850.00</p>
+                <p>3,100,000 Ushs</p>
             </div>
         </div>
 
