@@ -56,8 +56,8 @@
             </div>
             <div class="col-2">
                 <p>1 cup flask</p>
-                <h1>Always 1 Cup flask</h1>
-                <h4>$8.00-$10.00</h4>
+                <h1>A 1 cup small blue flask</h1>
+                <h4>25,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Red</option>
@@ -69,11 +69,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it is a steel stainless blue-outing <br>
-                   it keeps hot and cold water for 12hours <br> 
-                   it is portable and cool to carry and move with<br>
-                   it your favorite choice.
-                </p>
+                <ul>
+                    <li>it is a steel stainless blue-outing</li>
+                    <li>it keeps hot and cold water for 12hours</li>
+                    <li>it is portable and cool to carry and move with</li>
+                    <li>it your favorite choice.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -100,7 +101,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$6.00-$15.00</p>
+                <p>23,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-17-percolator2golden-details.php"><img src="../images/product-17-percolator-golden1.png"></a>
@@ -112,7 +113,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$12-$35k</p>
+                <p>40,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-22-mug1-details.php"><img src="../images/product-22-mug-traveling-cup1.png"></a>
@@ -124,7 +125,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$12.00</p>
+                <p>24,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-23-blendersaachi-details.php"><img src="../images/product-23-blender-saachi-1.png"></a>
@@ -136,7 +137,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$50.50-$60.00</p>
+                <p>180,000 Ushs</p>
             </div>
         </div>
 
