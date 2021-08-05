@@ -57,7 +57,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$17.00-$25.00</p>
+                <p>60,000-150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-34-newmifi-details.php"><img src="images/product-34-New-4G-unlocked-mifi-1.jpg"></a>
@@ -69,7 +69,7 @@
                     <i class="fa fa-star-half-o"></i> 
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$70.00</p>
+                <p>150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-35-A8samsung-details.php"><img src="images/product-35-Used-phone-A8-samsung-1.jpg"></a>
@@ -81,7 +81,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$600.00-$1000.00</p>
+                <p>800,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-36-earphones1-details.php"><img src="images/product-36-earphones1.jpg"></a>
@@ -93,7 +93,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>20,000 Ushs</p>
             </div>
         </div>
         <div class="row">
@@ -107,7 +107,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$50.00-$350.00</p>
+                <p>150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-38-headphonesony-details.php"><img src="images/product-38-headphonesony-1.jpg"></a>
@@ -119,7 +119,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>50,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-39-memorycards-details.php"><img src="images/product-39-memorycard-1.jpg"></a>
@@ -131,7 +131,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$45.00</p>
+                <p>10,000-95,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-40-flashes-details.php"><img src="images/product-40-Flashes-1.jpg"></a>
@@ -143,7 +143,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$50.00</p>
+                <p>12,000-100,000 Ushs</p>
             </div>
         </div>
         <div class="row">
@@ -157,7 +157,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$50.00</p>
+                <p>8,000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-42-phonerings-details.php"><img src="images/product-42-phonerings-1.jpg"></a>
@@ -169,11 +169,8 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>8,000-25,000 Ushs</p>
             </div>
-            
-            
-        </div>
 
         
         <div class="page-btn">
