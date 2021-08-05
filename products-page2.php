@@ -57,7 +57,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$12.00-$35.00</p>
+                <p>40,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-18-chargerovs-details.php"><img src="images/product-18-multi-charer-ovs1.png"></a>
@@ -69,7 +69,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>14,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-19-headphonesjbl1-details.php"><img src="images/product-19-headphones-jbl1.png"></a>
@@ -81,7 +81,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>60,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-20-screenguards-details.php"><img src="images/product-20-glass-screenguards1.png"></a>
@@ -93,7 +93,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$8.00</p>
+                <p>10,000-25,000 Ushs</p>
             </div>
         </div>
         <div class="row">
@@ -107,7 +107,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$6.00-$15.00</p>
+                <p>23,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-22-mug1-details.php"><img src="images/product-22-mug-traveling-cup1.png"></a>
@@ -119,7 +119,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$12.00</p>
+                <p>24,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-23-blendersaachi-details.php"><img src="images/product-23-blender-saachi-1.png"></a>
@@ -131,7 +131,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$50.50-$60.00</p>
+                <p>180,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-24-laptopbug-details.php"><img src="images/product-24-laptop-bug-1.png"></a>
@@ -143,14 +143,14 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$14.00-$24.00</p>
+                <p>60,000 Ushs</p>
             </div>
         </div>
 
         <div class="row">
             <div class="col-4">
                 <a href="productfiles/product-25-bluetooth1-details.php"><img src="images/product-25-bluetooth-earphones-jbl1.png"></a>
-                <a href="productfiles/product-25-bluetooth1-details.php"><h4>Wireless headphones-jbl</h4></a>
+                <a href="productfiles/product-25-bluetooth1-details.php"><h4>Wireless Earphones</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -158,7 +158,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>55,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-26-plugs1-details.php"><img src="images/product-26-plugs1.png"></a>
@@ -170,7 +170,7 @@
                     <i class="fa fa-star-half-o"></i> 
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>5,000-15,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-27-adapters1-details.php"><img src="images/product-27-adapters1.png"></a>
@@ -182,7 +182,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>10,000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-28-phonecovers1-details.php"><img src="images/product-28-phone-backcovers1.png"></a>
@@ -194,7 +194,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>10,000-35,000 Ushs</p>
             </div>
         </div> 
 
@@ -209,7 +209,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i> 
                 </div>
-                <p>$10.00-$15.00</p>
+                <p>28,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-31-simtablets-details.php"><img src="images/product-31-simcard-enabled-tablets1.png"></a>
@@ -221,7 +221,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$85.00-$100.00</p>
+                <p>320,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-32-wirelessadapters-details.php"><img src="images/product-32-wireless-adapters1.png"></a>
@@ -233,7 +233,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$22.00-$25.00</p>
+                <p>25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="productfiles/product-30-headphonesjbl2-details.php"><img src="images/product-30-headphones-jbl1.png"></a>
@@ -245,7 +245,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>58,000 Ushs</p>
             </div>
         </div> 
 
