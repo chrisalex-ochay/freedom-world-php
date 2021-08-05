@@ -57,7 +57,7 @@
             <div class="col-2">
                 <p>USB chargers</p>
                 <h1>USB chargers - all types</h1>
-                <h4>$5.00-$15.00</h4>
+                <h4>5000-25,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>black</option>
@@ -99,7 +99,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>14,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
@@ -111,7 +111,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-8-light-details.php"><img src="../images/product-8-light1.png"></a>
@@ -123,7 +123,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$12.00-$15.00</p>
+                <p>40,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-13-A12samsung-details.php"><img src="../images/product-13-samsungA21s1.png"></a>
@@ -135,12 +135,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$215.00-$270.00</p>
+                <p>780,000 Ushs</p>
             </div>
         </div>
 
     </div>
-
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
 
