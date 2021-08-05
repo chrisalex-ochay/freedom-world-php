@@ -60,7 +60,7 @@
             <div class="col-2">
                 <p>Oval Bluetooth Speaker</p>
                 <h2 style="font-size:xx-large;">An Oval Mini-Bluetooth Radio Speaker</h2>
-                <h4>$18.00-$25.00</h4>
+                <h4>60,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Red</option>
@@ -70,14 +70,15 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it is an oval-egg-sharped medium Bluetooth speaker<br>
-                    it has a radio with over 40 channels as well on top of acting as an amplifier<br> 
-                    You can also connect if on a TV or Laptop or Cell-phones directly to act as a hoofer, <br>
-                    it has a USB slot where you can put a flash and it plays your music.<br>
-                    it has a memory-card slot so that you're not limited in your choice music players.<br>
-                    it is rechargeable and can keep power for more than a day when listening to a radio.<br>
-                    contact us and place your orders, thanks
-                </p>
+                <ul>
+                    <li>it is an oval-egg-sharped medium Bluetooth speaker</li>
+                    <li>it has a radio with over 40 channels as well on top of acting as an amplifier</li>
+                    <li>You can also connect if on a TV or Laptop or Cell-phones directly to act as a hoofer, </li>
+                    <li>it has a USB slot where you can put a flash and it plays your music. </li>
+                    <li>it has a memory-card slot so that you're not limited in your choice music players.</li>
+                    <li>it is rechargeable and can keep power for more than a day when listening to a radio.</li>
+                    <li>contact us and place your orders, thanks</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -104,7 +105,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$10.00-$25.00</p>
+                <p>10,000-95,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-40-flashes-details.php"><img src="../images/product-40-Flashes-1.jpg"></a>
@@ -116,7 +117,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$12.00-$30.00</p>
+                <p>12,000-100,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
@@ -128,7 +129,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-8-light-details.php"><img src="../images/product-8-light1.png"></a>
@@ -140,7 +141,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$12.00-$15.00</p>
+                <p>40,000 Ushs</p>
             </div>
         </div>
 
