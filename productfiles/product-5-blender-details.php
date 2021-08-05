@@ -57,7 +57,7 @@
             <div class="col-2">
                 <p>Blender</p>
                 <h1>a Zaiba melamine jag blender</h1>
-                <h4>$38.00-$45.00</h4>
+                <h4>135,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>cream</option>
@@ -68,11 +68,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3> 
                 <br>
-                <p>it is a 1.5liters jag, <br>
-                    very strong, durable, long lasting and a powerful motar, <br> 
-                    it comes along with a grinder for hard stuffs like meat, sugar-cares, g-nuts etc <br>
-                    it your favorite choice.
-                </p>
+                <ul>
+                    <li>it is a 1.5liters jag, </li>
+                    <li>very strong, durable, long lasting and a powerful motar, </li>
+                    <li>it comes along with a grinder for hard stuffs like meat, sugar-cares, g-nuts etc </li>
+                    <li>it your favorite choice.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -91,7 +92,7 @@
         <div class="row">
             <div class="col-4">
                 <a href="../productfiles/product-23-blendersaachi-details.php"><img src="../images/product-23-blender-saachi-1.png"></a>
-                <a href="../productfiles/product-23-blendersaachi-details.php"><h4>Saachi Blenders </h4></a>
+                <a href="../productfiles/product-23-blendersaachi-details.php"><h4>2 jag saachi blender</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -99,7 +100,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$49.00-$65.00</p>
+                <p>135,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-12-percolator1-details.php"><img src="../images/product-12-percolator-mylong1.png"></a>
@@ -111,7 +112,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$22.00-$40.00</p>
+                <p>70,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-22-mug1-details.php"><img src="../images/product-22-mug-traveling-cup1.png"></a>
@@ -123,7 +124,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$12.00</p>
+                <p>24,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-27-adapters1-details.php"><img src="../images/product-27-adapters1.png"></a>
@@ -135,7 +136,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>10,000-25,000 Ushs</p>
             </div>
         </div>
 
