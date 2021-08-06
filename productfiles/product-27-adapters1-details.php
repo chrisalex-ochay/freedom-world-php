@@ -56,7 +56,7 @@
             <div class="col-2">
                 <p>Adapter/multi-plug</p>
                 <h1>Adapter/multi-plug</h1>
-                <h4>$5.00-$10.00</h4>
+                <h4>10,000-25,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>White</option>
@@ -66,11 +66,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>we have all types of adapters and plugs that fit in all sockets and extensions<br>
-                   they are multi-functional and yet easy to use and to carry along with <br>
-                   the big one can accept like 3 connections to it at a go<br>
-                   yet its not expensive but durable and reliable
-                </p>
+                <ul>
+                    <li>we have all types of adapters and plugs that fit in all sockets and extensions</li>
+                    <li>they are multi-functional and yet easy to use and to carry along with</li>
+                    <li>the big one can accept like 3 connections to it at a go</li>
+                    <li>yet its not expensive but durable and reliable</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -97,7 +98,7 @@
                     <i class="fa fa-star-half-o"></i> 
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>5,000-15,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-7-charger-details.php"><img src="../images/product-7-4ne-cable-chargers-1.jpg"></a>
@@ -109,11 +110,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$15.00</p>
+                <p>5000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-29-extensions1-details.php"><img src="../images/product-29-extensions-1.png"></a>
-                <a href="../productfiles/product-29-extensions1-details.php"><h4>Extensions</h4></a>
+                <a href="../productfiles/product-29-extensions1-details.php"><h4>Villaon Extensions</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -121,7 +122,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i> 
                 </div>
-                <p>$10.00-$15.00</p>
+                <p>28,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-32-wirelessadapters-details.php"><img src="../images/product-32-wireless-adapters1.png"></a>
@@ -133,7 +134,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$22.00-$25.00</p>
+                <p>25,000 Ushs</p>
             </div>
         </div>
 
