@@ -56,7 +56,7 @@
             <div class="col-2">
                 <p>Laptopbugs</p>
                 <h1>New Laptop-bugs</h1>
-                <h4>$14.00-$24.00</h4>
+                <h4>60,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -68,11 +68,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>A very good strong laptop bugs in all sizes <br>
-                   they come in all colors<br>
-                   it can be used to carry a laptop along with your traveling mug or small flask <br>
-                   it is adjustable and reliable
-                </p>
+                <ul>
+                    <li>A very good strong laptop bugs in all sizes</li>
+                    <li>they come in all colors</li>
+                    <li>it can be used to carry a laptop along with your traveling mug or small flask </li>
+                    <li>it is adjustable and reliable</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -91,7 +92,7 @@
         <div class="row">
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>Laptop</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New HP Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -99,7 +100,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-9-mouse-details.php"><img src="../images/product-9-mouse-wired-1.png"></a>
@@ -111,7 +112,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$15.00</p>
+                <p>18,000-60,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-10-cupflask1-details.php"><img src="../images/product-10-1cupflask1.png"></a>
@@ -123,11 +124,11 @@
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star-o"></i>
                     </div>
-                    <p>$8.00-$10.00</p>
+                    <p>25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-1-iphonex-details.php"><img src="../images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhone12</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -135,7 +136,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$850.00</p>
+                <p>3,100,000 Ushs</p>
             </div>
         </div>
 
