@@ -51,7 +51,7 @@
             <div class="col-2">
                 <p>Steamer Flatiron</p>
                 <h1>A Phillips Steam-Flatiron</h1>
-                <h4>$22.50-$27.00</h4>
+                <h4>85,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Blue-White</option>
@@ -62,12 +62,13 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it is an electric steam flatiron with self clean functions <br>
-                    very strong, durable, long lasting and a ceramic soleplate <br>
-                    with Anti-drip 360 ml water tank capacity, <br> 
-                    it is adjustable and it comes with an over heating protection feature <br>
-                    to save you from accidental electrical fires
-                </p>
+                <ul>
+                    <li>it is an electric steam flatiron with self clean functions </li>
+                    <li>very strong, durable, long lasting and a ceramic soleplate </li>
+                    <li>with Anti-drip 360 ml water tank capacity, </li>
+                    <li>it is adjustable and it comes with an over heating protection feature </li>
+                    <li>to save you from accidental electrical fires</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -94,7 +95,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$20.50-$25.00</p>
+                <p>75,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-17-percolator2golden-details.php"><img src="../images/product-17-percolator-golden1.png"></a>
@@ -106,11 +107,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$12.00-$35.00</p>
+                <p>40,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-29-extensions1-details.php"><img src="../images/product-29-extensions-1.png"></a>
-                <a href="../productfiles/product-29-extensions1-details.php"><h4>Extensions</h4></a>
+                <a href="../productfiles/product-29-extensions1-details.php"><h4>Villaon Extensions</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -118,7 +119,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$10.00-$25.00</p>
+                <p>28,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-38-headphonesony-details.php"><img src="../images/product-38-headphonesony-1.jpg"></a>
@@ -130,7 +131,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>50,000 Ushs</p>
             </div>
         </div>
 
