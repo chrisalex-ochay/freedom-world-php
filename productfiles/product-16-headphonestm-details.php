@@ -57,7 +57,7 @@
             <div class="col-2">
                 <p>Tm Headphones</p>
                 <h1>TM-Bass headphones</h1>
-                <h4>$8.00-$20.00</h4>
+                <h4>55,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>White</option>
@@ -69,12 +69,13 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>Tm Big Bass and stereo headphones are both wireless and Wired <br>
-                   they come with a small cable smart-flat charger <br> 
-                   it has a bluetooth and a Radio <br>
-                   it also has a memory card slot <br>
-                   it has a strong long-lasting battery as well.
-                </p>
+                <ul>
+                    <li>Tm Big Bass and stereo headphones are both wireless and Wired</li>
+                    <li>they come with a small cable smart-flat charger </li>
+                    <li>it has a bluetooth and a Radio </li>
+                    <li>it also has a memory card slot </li>
+                    <li>it has a strong long-lasting battery as well.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -101,11 +102,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>60,000 Ushs</p>
             </div>
             <div class="col-4">
-                <a href="../productfiles/product-36-earphones1-details.php"><img src="../images/product-36-earphones1-1.jpg"></a>
-                <a href="../productfiles/product-36-earphones1-details.php"><h4>Packaged good-bass earphones</h4></a>
+                <a href="../productfiles/product-36-earphones1-details.php"><img src="../images/product-36-earphones1.jpg"></a>
+                <a href="../productfiles/product-36-earphones1-details.php"><h4>Packaged earphones</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -113,7 +114,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i> 
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>20,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-25-bluetooth1-details.php"><img src="../images/product-25-bluetooth-earphones-jbl1.png"></a>
@@ -125,7 +126,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>55,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-38-headphonesony-details.php"><img src="../images/product-38-headphonesony-1.jpg"></a>
@@ -137,12 +138,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>50,000 Ushs</p>
             </div>
         </div>
 
     </div>
-
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
 
