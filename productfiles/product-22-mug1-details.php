@@ -60,7 +60,7 @@
             <div class="col-2">
                 <p>777 mug handler cup</p>
                 <h1>A Traveling Mug Cug</h1>
-                <h4>$8.00 - $12.00</h4>
+                <h4>24,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -72,11 +72,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it is a nice to handle cup which keeps your hot tea alittle longer hot <br>
-                    it keeps hot and cold water for atleast 4-8 hours <br> 
-                    it is portable and cool to carry and move with<br>
-                    it also comes with a black,red,brown,green top cover
-                 </p>
+                <ul>
+                    <li>it is a nice to handle cup which keeps your hot tea alittle longer hot </li>
+                    <li>it keeps hot and cold water for atleast 4-8 hours</li>
+                    <li>it is portable and cool to carry and move with</li>
+                    <li>it also comes with a black,red,brown,green top cover</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -103,7 +104,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$6.00-$15.00</p>
+                <p>23,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-10-cupflask1-details.php"><img src="../images/product-10-1cupflask1.png"></a>
@@ -115,7 +116,7 @@
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star-o"></i>
                     </div>
-                    <p>$8.00-$10.00</p>
+                    <p>25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-4-flask-details.php"> <img src="../images/product-4-flask2.5-stainless-1.png"></a>
@@ -127,7 +128,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$18.00-$24.00</p>
+                <p>75,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-12-percolator1-details.php"><img src="../images/product-12-percolator-mylong1.png"></a>
@@ -139,12 +140,11 @@
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star-o"></i>
                     </div>
-                    <p>$22.00-$40.00</p>
+                    <p>70,000 Ushs</p>
             </div>
         </div>
 
     </div>
-
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
 
