@@ -54,7 +54,7 @@
             <div class="col-2">
                 <p>Screen guards</p>
                 <h1>Glass Screen-guards</h1>
-                <h4>$5.00-$10.00</h4>
+                <h4>10,000-25,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>silver</option>
@@ -65,11 +65,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>these are strong full-glass screen guards that protects your <br>
-                   smart phone screen when heat on a hard-surface<br> 
-                   they are like using an umbrella during rainfall <br>
-                   they are cheap and easy to put on your phone.
-                </p>
+                <ul>
+                    <li>these are strong full-glass screen guards that protects your </li>
+                    <li>smart phone screen when heat on a hard-surface</li>
+                    <li>they are like using an umbrella during rainfall</li>
+                    <li>they are cheap and easy to put on your phone.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -96,7 +97,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$30.00</p>
+                <p>10,000-35,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-13-A21samsung-details.php"><img src="../images/product-13-samsungA21s1.png"></a>
@@ -108,7 +109,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                 </div>
-                <p>$215.00-$270.00</p>
+                <p>780,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-31-simtablets-details.php"><img src="../images/product-31-simcard-enabled-tablets1.png"></a>
@@ -120,7 +121,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$85.00-$100.00</p>
+                <p>320,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-41-otg-adapter-details.php"><img src="../images/product-41-OTG-adapter-1.jpg"></a>
@@ -132,7 +133,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$50.00</p>
+                <p>8,000-25,000 Ushs</p>
             </div>
         </div>
 
