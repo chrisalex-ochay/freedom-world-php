@@ -51,13 +51,14 @@
                 </div>
             </div>
             <div class="col-2">
-                <p>Stainless 1 cup Flask</p>
-                <h1>Stainless 1 cup Flask</h1>
-                <h4>23,000 Ushs</h4>
+                <p>777 mug handler cup</p>
+                <h1>A Traveling Mug Cug</h1>
+                <h4>24,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
-                    <option>silver</option>
-                    <option>black</option>
+                    <option>Black</option>
+                    <option>Brown</option>
+                    <option>Red</option>
                 </select>
                 <input type="number" value="1">
                 <a href="" class="btn">Add to Cart</a>
@@ -65,10 +66,10 @@
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
                 <ul>
-                    <li>it is a steel stainless colorless good looking</li>
-                    <li>it keeps hot and cold water for 12hours</li>
+                    <li>it is a nice to handle cup which keeps your hot tea alittle longer hot </li>
+                    <li>it keeps hot and cold water for atleast 4-8 hours</li>
                     <li>it is portable and cool to carry and move with</li>
-                    <li>it also comes with a black cover</li>
+                    <li>it also comes with a black,red,brown,green top cover</li>
                 </ul>
             </div>
         </div>
@@ -87,8 +88,20 @@
     <div class="small-container">        
         <div class="row">
             <div class="col-4">
+                <a href="../productfiles/product-21-cupflask2-details.php"><img src="../images/product-21-flask-stainless-1cup1.png"></a>
+                <a href="../productfiles/product-21-cupflask2-details.php"><h4>1 cup stainless flask</h4></a>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>23,000 Ushs</p>
+            </div>
+            <div class="col-4">
                 <a href="../productfiles/product-10-cupflask1-details.php"><img src="../images/product-10-1cupflask1.png"></a>
-                    <a href="../productfiles/product-10-cupflask1-details.php"><h4>A 1 cup small blue flask</h4></a>
+                <a href="../productfiles/product-10-cupflask1-details.php"><h4>A 1 cup small blue flask</h4></a>
                     <div class="rating">
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>
@@ -111,33 +124,20 @@
                 <p>75,000 Ushs</p>
             </div>
             <div class="col-4">
-                <a href="../productfiles/product-22-mug1-details.php"><img src="../images/product-22-mug-traveling-cup1.png"></a>
-                <a href="../productfiles/product-22-mug1-details.php"><h4>traveling mug 1 cup</h4></a>
-                <div class="rating">
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star-half-o"></i>
-                    <i class="fa fa-star-o"></i>
-                </div>
-                <p>24,000 Ushs</p>
-            </div>
-            <div class="col-4">
-                <a href="../productfiles/product-24-laptopbug-details.php"><img src="../images/product-24-laptop-bug-1.png"></a>
-                <a href="../productfiles/product-24-laptopbug-details.php"><h4>Laptop Bugs</h4></a>
-                <div class="rating">
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star-o"></i>
-                </div>
-                <p>60,000 Ushs</p>
+                <a href="../productfiles/product-12-percolator1-details.php"><img src="../images/product-12-percolator-mylong1.png"></a>
+                <a href="../productfiles/product-12-percolator1-details.php"><h4>Percolator-MyLong</h4></a>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-o"></i>
+                    </div>
+                    <p>70,000 Ushs</p>
             </div>
         </div>
 
     </div>
-
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
 
