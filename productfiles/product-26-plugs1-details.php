@@ -56,7 +56,7 @@
             <div class="col-2">
                 <p>Top USB Plugs </p>
                 <h1>Top USB Plugs </h1>
-                <h4>$5.00-$10.00</h4>
+                <h4>5,000-15,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>White</option>
@@ -68,11 +68,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>top USB plugs with single and Dual USB ports are all available<br>
-                   we have even the ones that work for iPhones<br>
-                   We have both fast charging and moderate charging speed usb plugs <br>
-                   we have for different prices 
-                </p>
+                <ul>
+                    <li>top USB plugs with single and Dual USB ports are all available</li>
+                    <li>we have even the ones that work for iPhones</li>
+                    <li>We have both fast charging and moderate charging speed usb plugs</li>
+                    <li>we have for different prices</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -82,7 +83,7 @@
     <div class="small-container">
         <div class="row row-2">
             <h2>Related Products</h2>
-            <a href="../products-page1.php"><p>View More</p></a>
+            <a href="../products-page2.php"><p>View More</p></a>
         </div>
     </div>
 
@@ -99,7 +100,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$15.00</p>
+                <p>5000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-27-adapters1-details.php"><img src="../images/product-27-adapters1.png"></a>
@@ -111,11 +112,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>10,000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-29-extensions1-details.php"><img src="../images/product-29-extensions-1.png"></a>
-                <a href="../productfiles/product-29-extensions1-details.php"><h4>Extensions</h4></a>
+                <a href="../productfiles/product-29-extensions1-details.php"><h4>Villaon Extensions</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -123,7 +124,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i> 
                 </div>
-                <p>$10.00-$15.00</p>
+                <p>28,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-32-wirelessadapters-details.php"><img src="../images/product-32-wireless-adapters1.png"></a>
@@ -135,7 +136,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$22.00-$25.00</p>
+                <p>25,000 Ushs</p>
             </div>
         </div>
 
