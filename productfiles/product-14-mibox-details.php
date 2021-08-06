@@ -60,7 +60,7 @@
             <div class="col-2">
                 <p>Mi-TV Box</p>
                 <h1>a Smart Mi-TV Box</h1>
-                <h4>$90.00-$110.00</h4>
+                <h4>350,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -71,11 +71,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>A smart Mi_Tv Box is used to stream online TV content onto a non-smart TV <br>
-                   it comes with a 2gb Ram plus 8gb storage memory, <br> 
-                   it runs on Android 8.1 operating system platform <br>
-                   it has a CPU of quad-core 64bit and Bluetooth 4.2 
-                </p>
+                <ul>
+                    <li>A smart Mi_Tv Box is used to stream online TV content onto a non-smart TV </li>
+                    <li>it comes with a 2gb Ram plus 8gb storage memory, </li>
+                    <li>it runs on Android 8.1 operating system platform </li>
+                    <li>it has a CPU of quad-core 64bit and Bluetooth 4.2</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -94,7 +95,7 @@
         <div class="row">
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>Laptop</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New HP Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -102,7 +103,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-24-laptopbug-details.php"><img src="../images/product-24-laptop-bug-1.png"></a>
@@ -114,7 +115,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$14.00-$24.00</p>
+                <p>60,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-35-A8samsung-details.php"><img src="../images/product-35-Used-phone-A8-samsung-1.jpg"></a>
@@ -126,7 +127,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$600.00-$1000.00</p>
+                <p>800,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-36-earphones1-details.php"><img src="../images/product-36-earphones1-1.jpg"></a>
@@ -138,7 +139,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>20,000 Ushs</p>
             </div>
         </div>
 
