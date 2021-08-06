@@ -57,7 +57,7 @@
             <div class="col-2">
                 <p>OVS-Multi-charger</p>
                 <h1>OVS-Multi-charger</h1>
-                <h4>$5.00-$10.00</h4>
+                <h4>14,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>white</option>
@@ -68,11 +68,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it is a fast charging charger <br>
-                   it has a connected direct-cable charger for a smart flat charging<br> 
-                   it has 3 other ports for more 3 devices <br>
-                   it is reliable and durable
-                </p>
+                <ul>
+                    <li>it is a fast charging charger </li>
+                    <li>it has a connected direct-cable charger for a smart flat charging</li>
+                    <li>it has 3 other ports for more 3 devices</li>
+                    <li>it is reliable and durable</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -91,7 +92,7 @@
         <div class="row">
             <div class="col-4">
                 <a href="../productfiles/product-7-charger-details.php"><img src="../images/product-7-4ne-cable-chargers-1.jpg"></a>
-                <a href="../productfiles/product-7-charger-details.php"><h4>USB cables & Chargers </h4></a>
+                <a href="../productfiles/product-7-charger-details.php"><h4>USB cables Chargers </h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -99,7 +100,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$15.00</p>
+                <p>5000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-9-mouse-details.php"><img src="../images/product-9-mouse-wired-1.png"></a>
@@ -111,7 +112,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$15.00</p>
+                <p>18,000-60,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-31-simtablets-details.php"><img src="../images/product-31-simcard-enabled-tablets1.png"></a>
@@ -123,7 +124,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$85.00-$100.00</p>
+                <p>320,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-40-flashes-details.php"><img src="../images/product-40-Flashes-1.jpg"></a>
@@ -135,7 +136,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$50.00</p>
+                <p>12,000-100,000 Ushs</p>
             </div>
         </div>
 
