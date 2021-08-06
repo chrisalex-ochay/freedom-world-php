@@ -53,7 +53,7 @@
             <div class="col-2">
                 <p>Stainless 1 cup Flask</p>
                 <h1>Stainless 1 cup Flask</h1>
-                <h4>$6.00-$15.00</h4>
+                <h4>23,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>silver</option>
@@ -64,11 +64,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it is a steel stainless colorless good looking <br>
-                    it keeps hot and cold water for 12hours <br> 
-                    it is portable and cool to carry and move with<br>
-                    it also comes with a black cover
-                 </p>
+                <ul>
+                    <li>it is a steel stainless colorless good looking</li>
+                    <li>it keeps hot and cold water for 12hours</li>
+                    <li>it is portable and cool to carry and move with</li>
+                    <li>it also comes with a black cover</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -95,7 +96,7 @@
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star-o"></i>
                     </div>
-                    <p>$8.00-$10.00</p>
+                    <p>25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-4-flask-details.php"> <img src="../images/product-4-flask2.5-stainless-1.png"></a>
@@ -107,7 +108,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$18.00-$24.00</p>
+                <p>75,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-22-mug1-details.php"><img src="../images/product-22-mug-traveling-cup1.png"></a>
@@ -119,7 +120,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$12.00</p>
+                <p>24,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-24-laptopbug-details.php"><img src="../images/product-24-laptop-bug-1.png"></a>
@@ -131,7 +132,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$14.00-$24.00</p>
+                <p>60,000 Ushs</p>
             </div>
         </div>
 
