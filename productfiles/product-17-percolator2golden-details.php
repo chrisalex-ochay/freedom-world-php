@@ -57,7 +57,7 @@
             <div class="col-2">
                 <p>Percolators</p>
                 <h1>A stainless Golden percolator</h1>
-                <h4>$12.00-$35.00</h4>
+                <h4>40,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Silver</option>
@@ -68,10 +68,11 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it is a 1.8 litre capacity <br>
-                   it is an automatic shutdown when water is done boiling <br> 
-                    it is easy and fast to use yet a high quality.
-                </p>
+                <ul>
+                    <li>it is a 1.8 litre capacity</li>
+                    <li>it is an automatic shutdown when water is done boiling</li>
+                    <li>it is easy and fast to use yet a high quality.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -98,7 +99,7 @@
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star-o"></i>
                     </div>
-                    <p>$8.00-$10.00</p>
+                    <p>25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-12-percolator1-details.php"><img src="../images/product-12-percolator-mylong1.png"></a>
@@ -110,7 +111,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$22.00-$40.00</p>
+                <p>70,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-4-flask-details.php"> <img src="../images/product-4-flask2.5-stainless-1.png"></a>
@@ -122,7 +123,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$18.00-$24.00</p>
+                <p>75,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-22-mug1-details.php"><img src="../images/product-22-mug-traveling-cup1.png"></a>
@@ -134,7 +135,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$12.00</p>
+                <p>24,000 Ushs</p>
             </div>
         </div>
 
