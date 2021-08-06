@@ -59,7 +59,7 @@
             <div class="col-2">
                 <p>Bluetooth big bass </p>
                 <h1>Bluetooth Wireless Earphones</h1>
-                <h4>$15.00-$20.00</h4>
+                <h4>55,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -69,11 +69,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>its a new trending wireless bluetooth 5.0 earphones <br>
-                   it is fast and stable quick to connect devise  <br>
-                   in a reach of 10meters <br>
-                   it can last on both pieces for morethan 4hrs
-                </p>
+                <ul>
+                    <li>its a new trending wireless bluetooth 5.0 earphones </li>
+                    <li>it is fast and stable quick to connect devise</li>
+                    <li>in a reach of 10meters </li>
+                    <li>it can last on both pieces for morethan 4hrs</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -100,7 +101,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>60,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-13-A12samsung-details.php"><img src="../images/product-13-samsungA21s1.png"></a>
@@ -112,7 +113,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                 </div>
-                <p>$215.00-$270.00</p>
+                <p>780,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-36-earphones1-details.php"><img src="../images/product-36-earphones1.jpg"></a>
@@ -124,7 +125,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>20,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-37-smartwatch-details.php"><img src="../images/product-37-smartwatch1-1.png"></a>
@@ -136,7 +137,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$50.00-$350.00</p>
+                <p>150,000 Ushs</p>
             </div>
         </div>
 
