@@ -49,7 +49,7 @@
             <div class="col-2">
                 <p>White Unlocked Used Mifi</p>
                 <h1>White Unlocked Used Mifi</h1>
-                <h4>$17.00-$25.00</h4>
+                <h4>60,000-150,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>White</option>
@@ -60,11 +60,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it is a 4G used airtel Mifi but unlocked which means <br>
-                   all lines can work in it, <br>
-                   it has a good battery which can last for a full day <br>
-                   it is your best choice for remote areas
-                </p>
+                <ul>
+                    <li>it is a 4G used airtel Mifi but unlocked which means </li>
+                    <li>all lines can work in it, </li>
+                    <li>it has a good battery which can last for a full day </li>
+                    <li>it is your best choice for remote areas</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -91,7 +92,7 @@
                     <i class="fa fa-star-half-o"></i> 
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$70.00</p>
+                <p>150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-3-bulb-details.php"><img src="../images/product-3-bulb1.png"></a>
@@ -103,11 +104,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$6.00-$10.00</p>
+                <p>25,000 Ushs</p>
             </div>
             <div class="col-4">
-                <a href="../productfiles/product-13-A12samsung-details.php"><img src="../images/product-13-samsungA21s1.png"></a>
-                <a href="../productfiles/product-13-A12samsung-details.php"><h4>Samsung Phones- A21s</h4></a>
+                <a href="../productfiles/product-13-A21samsung-details.php"><img src="../images/product-13-samsungA21s1.png"></a>
+                <a href="../productfiles/product-13-A21samsung-details.php"><h4>Samsung Phones- A21s</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -115,7 +116,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                 </div>
-                <p>$215.00-$270.00</p>
+                <p>780,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-14-mibox-details.php"><img src="../images/product-14-Mi-Box1.png"></a>
@@ -127,7 +128,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$90.00-$110.00</p>
+                <p>350,000 Ushs</p>
             </div>
         </div>
 
