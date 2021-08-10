@@ -66,7 +66,7 @@
             <div class="col-2">
                 <p>New Unlocked 4G mifi</p>
                 <h1>New 4G Unlocked mifi</h1>
-                <h4>$40.00-$70.00</h4>
+                <h4>150,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -78,11 +78,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>a New Unlocked mifi for all seasons  <br>
-                   even lyca line can work in it <br>
-                   it is at a 4G network which can work well even in remote areas <br>
-                   it is your favourite choice for all seasons
-                </p>
+                <ul>
+                    <li>a New Unlocked mifi for all seasons</li>
+                    <li>even lyca line can work in it</li>
+                    <li>it is at a 4G network which can work well even in remote areas</li>
+                    <li>it is your favourite choice for all seasons</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -109,7 +110,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$22.00-$70.00</p>
+                <p>60,000-150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-13-A21samsung-details.php"><img src="../images/product-13-samsungA21s1.png"></a>
@@ -121,7 +122,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                 </div>
-                <p>$215.00-$270.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-5-blender-details.php"><img src="../images/product-5-blender-zaiba-1.png"></a>
@@ -133,11 +134,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$50.00</p>
+                <p>135,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
-                <a href="../productfiles/product-2-laptop-details.php"><h4>Laptop</h4></a>
+                <a href="../productfiles/product-2-laptop-details.php"><h4>New HP Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -145,12 +146,11 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
         </div>
 
     </div>
-
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
 
