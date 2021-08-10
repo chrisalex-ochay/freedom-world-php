@@ -62,7 +62,7 @@
             <div class="col-2">
                 <p>Phone-rings</p>
                 <h1>All Phone rings</h1>
-                <h4>$5.00-$10.00</h4>
+                <h4>8,000-25,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Red-rose</option>
@@ -76,12 +76,13 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>these are phone rings that are put on the back of your phone<br>
-                   whether with a cover or not <br>
-                   they help your make better selfie camera pictures<br>
-                   and they help you not to worry about how you hold your phone,<br>
-                   they help you rest your phone diagonally when doing office work and chat better. 
-                </p>
+                <ul>
+                    <li>these are phone rings that are put on the back of your phone</li>
+                    <li>whether with a cover or not </li>
+                    <li>they help your make better selfie camera pictures</li>
+                    <li>and they help you not to worry about how you hold your phone,</li>
+                    <li>they help you rest your phone diagonally when doing office work and chat better.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -108,7 +109,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$600.00-$1000.00</p>
+                <p>800,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-28-phonecovers1-details.php"><img src="../images/product-28-phone-backcovers1.png"></a>
@@ -120,7 +121,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$15.00</p>
+                <p>10,000-35,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-20-screenguards-details.php"><img src="../images/product-20-glass-screenguards1.png"></a>
@@ -132,7 +133,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$8.00</p>
+                <p>10,000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-11-flatiron1-details.php"><img src="../images/product-11-flatiron1.png"></a>
@@ -144,11 +145,12 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$20.50-$25.00</p>
+                <p>75,000 Ushs</p>
             </div>
         </div>
 
     </div>
+
 
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
