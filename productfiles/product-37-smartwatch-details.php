@@ -48,7 +48,7 @@
             <div class="col-2">
                 <p>Smart Watch</p>
                 <h1>Portable SmartWatch</h1>
-                <h4>$50.00-$350.00</h4>
+                <h4>150,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Orange</option>
@@ -60,12 +60,13 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>a smart watch is a smart phone like device worn on the arm wrist<br>
-                   it can be connected to a smartphone or not <br>
-                   when connected to a smart phone it notifies the user of the incoming calls,<br>
-                   e-mail messages and notifications from applications.<br>
-                   but a simcard enabled smart watch can make calls on its own.
-                </p>
+                <ul>
+                    <li>a smart watch is a smart phone like device worn on the arm wrist</li>
+                    <li>it can be connected to a smartphone or not </li>
+                    <li>when connected to a smart phone it notifies the user of the incoming calls,</li>
+                    <li>e-mail messages and notifications from applications.</li>
+                    <li>but a simcard enabled smart watch can make calls on its own.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -92,7 +93,7 @@
                     <i class="fa fa-star-half-o"></i> 
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$70.00</p>
+                <p>150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-35-A8samsung-details.php"><img src="../images/product-35-Used-phone-A8-samsung-1.jpg"></a>
@@ -104,7 +105,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$600.00-$1000.00</p>
+                <p>800,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-4-flask-details.php"> <img src="../images/product-4-flask2.5-stainless-1.png"></a>
@@ -116,7 +117,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$18.00-$24.00</p>
+                <p>75,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-6-minispeaker-details.php"><img src="../images/product-6-bluetooth-speaker-oval1.png"></a>
@@ -128,12 +129,11 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$18.00-$25.00</p>
+                <p>60,000 Ushs</p>
             </div>
         </div>
 
     </div>
-
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
 
