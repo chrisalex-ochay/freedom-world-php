@@ -57,7 +57,7 @@
             <div class="col-2">
                 <p>Sony Extra Bass headphones</p>
                 <h1>Sony Extra Bass headphones</h1>
-                <h4>$15.00 - $20.00</h4>
+                <h4>50,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -69,11 +69,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>Sony headphones have an Extra Bass and yet are wired and wireless <br>
-                    it has a bluetooth and a Radio <br>
-                    it also has a memory card slot <br>
-                    it has a wire incase you dont want to use bluetooth
-                </p>
+                <ul>
+                    <li>Sony headphones have an Extra Bass and yet are wired and wireless</li>
+                    <li>it has a bluetooth and a Radio</li>
+                    <li>it also has a memory card slot</li>
+                    <li>it has a wire incase you dont want to use bluetooth</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -100,7 +101,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>55,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-39-memorycards-details.php"><img src="../images/product-39-memorycard-1.jpg"></a>
@@ -112,11 +113,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$45.00</p>
+                <p>10,000-95,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-1-iphonex-details.php"><img src="../images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhoneX</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -124,7 +125,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$600.00-$1000.00</p>
+                <p>3,100,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-19-headphonesjbl1-details.php"><img src="../images/product-19-headphones-jbl1.png"></a>
@@ -136,7 +137,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>60,000 Ushs</p>
             </div>
         </div>
 
