@@ -50,7 +50,7 @@
             <div class="col-2">
                 <p>Tablet 4G simcard Enabled</p>
                 <h1>4G Tablet.</h1>
-                <h4>$85.00-$100.00</h4>
+                <h4>320,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -62,12 +62,13 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>This 4G tablet is simcard enabled and on 4G network <br>
-                   it works well with playfull kids  <br>
-                   and it can also be used for presentation purposes<br>
-                   it has a very good battery and a very good speed <br>
-                   Children can install most of the games they are interested in.
-                </p>
+                <ul>
+                    <li>This 4G tablet is simcard enabled and on 4G network</li>
+                    <li>it works well with playfull kids</li>
+                    <li>it can also be used for presentation purposes</li>
+                    <li>it has a very good battery and a very good speed</li>
+                    <li>Children can install most of the games they are interested in.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -94,7 +95,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$50.00-$350.00</p>
+                <p>150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-38-headphonesony-details.php"><img src="../images/product-38-headphonesony-1.jpg"></a>
@@ -106,7 +107,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>50,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-34-newmifi-details.php"><img src="../images/product-34-New-4G-unlocked-mifi-1.jpg"></a>
@@ -118,11 +119,11 @@
                     <i class="fa fa-star-half-o"></i> 
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$70.00</p>
+                <p>150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-1-iphonex-details.php"><img src="../images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhone12</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -130,7 +131,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$850.00</p>
+                <p>3,100,000 Ushs</p>
             </div>
         </div>
 
