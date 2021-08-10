@@ -56,7 +56,7 @@
             <div class="col-2">
                 <p>Wireless Adapter</p>
                 <h1>Wireless USB adapters</h1>
-                <h4>$22.00-$25.00</h4>
+                <h4>25,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -68,11 +68,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it's a 3.0 speed USB wireless adapater <br>
-                   which also comes along with a small disk full of its drivers<br>
-                   it helps your Desktop P.C to connect to wireless or bluetooth devices around<br>
-                   its very small and almost invisible.
-                </p>
+                <ul>
+                    <li>it's a 3.0 speed USB wireless adapater</li>
+                    <li>which also comes along with a small disk full of its drivers</li>
+                    <li>it helps your Desktop P.C to connect to wireless or bluetooth devices around</li>
+                    <li>its very small and almost invisible.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -99,7 +100,7 @@
                     <i class="fa fa-star-half-o"></i> 
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$70.00</p>
+                <p>150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-35-A8samsung-details.php"><img src="../images/product-35-Used-phone-A8-samsung-1.jpg"></a>
@@ -111,7 +112,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$600.00-$1000.00</p>
+                <p>800,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-22-mug1-details.php"><img src="../images/product-22-mug-traveling-cup1.png"></a>
@@ -123,11 +124,11 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$12.00</p>
+                <p>24,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>Laptop</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New HP Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -135,7 +136,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
         </div>
 
