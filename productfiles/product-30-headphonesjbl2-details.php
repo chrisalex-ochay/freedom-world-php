@@ -56,7 +56,7 @@
             <div class="col-2">
                 <p>Simple Headphones jbl2</p>
                 <h1>Good Bass Headphone jbl</h1>
-                <h4>$15.00 - $20.00</h4> 
+                <h4>58,000 Ushs</h4> 
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -66,11 +66,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>these simple Bass jbl headphones have wireless capability <br>
-                    it has a bluetooth and a Radio <br>
-                    it also has a memory card slot <br>
-                    it has a wire incase you dont want to use bluetooth
-                </p>
+                <ul>
+                    <li>these simple Bass jbl headphones have wireless capability</li>
+                    <li>it has a bluetooth and a Radio</li>
+                    <li>it also has a memory card slot</li>
+                    <li>it has a wire incase you dont want to use bluetooth</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -97,7 +98,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$8.00-$20.00</p>
+                <p>55,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-38-headphonesony-details.php"><img src="../images/product-38-headphonesony-1.jpg"></a>
@@ -109,7 +110,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>50,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-35-A8samsung-details.php"><img src="../images/product-35-Used-phone-A8-samsung-1.jpg"></a>
@@ -121,7 +122,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$600.00-$1000.00</p>
+                <p>800,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-40-flashes-details.php"><img src="../images/product-40-Flashes-1.jpg"></a>
@@ -133,12 +134,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$50.00</p>
+                <p>12,000-100,000 Ushs</p>
             </div>
         </div>
 
     </div>
-
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
 
