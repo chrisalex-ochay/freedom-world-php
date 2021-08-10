@@ -56,7 +56,7 @@
             <div class="col-2">
                 <p>UK-Type Extensions</p>
                 <h1>Villaon UK-Type Extensins</h1>
-                <h4>$10.00-$15.00</h4>
+                <h4>28,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>White</option>
@@ -66,11 +66,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>Villaon Extensions are made from china for UK market<br>
-                   they are powerful and nice looking  <br>
-                   they can handle all powerful voltages one at a time like a fridge<br>
-                   or a plate, flatiron, or percolator one at a time.
-                </p>
+                <ul>
+                    <li>Villaon Extensions are made from china for UK market</li>
+                    <li>they are powerful and nice looking</li>
+                    <li>they can handle all powerful voltages one at a time like a fridge</li>
+                    <li>or a plate, flatiron, or percolator one at a time.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -97,7 +98,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>10,000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-26-plugs1-details.php"><img src="../images/product-26-plugs1.png"></a>
@@ -109,7 +110,7 @@
                     <i class="fa fa-star-half-o"></i> 
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$10.00</p>
+                <p>5,000-15,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-31-simtablets-details.php"><img src="../images/product-31-simcard-enabled-tablets1.png"></a>
@@ -121,11 +122,11 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$85.00-$100.00</p>
+                <p>320,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-1-iphonex-details.php"><img src="../images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhone12</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -133,7 +134,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$850.00</p>
+                <p>3,100,000 Ushs</p>
             </div>
         </div>
 
