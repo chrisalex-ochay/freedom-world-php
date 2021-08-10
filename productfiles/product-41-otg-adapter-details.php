@@ -60,7 +60,7 @@
             <div class="col-2">
                 <p>OTG usb connector/adapter</p>
                 <h1>OTG USB adapter</h1>
-                <h4>$5.00-$50.00</h4>
+                <h4>7,000-20,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Blue</option>
