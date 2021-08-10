@@ -50,7 +50,7 @@
             <div class="col-2">
                 <p>Packaged good-bass earphones</p>
                 <h1>Packaged good-bass earphones</h1>
-                <h4>$5.00 - $10.00</h4>
+                <h4>20,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -61,11 +61,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>these packed in black cover which keeps them safe<br>
-                   they have a good bass and are durable <br>
-                   they have an earphone to receive phone calls<br>
-                   they normally dont reject big pin smart-phones
-                </p>
+                <ul>
+                    <li>these packed in black cover which keeps them safe</li>
+                    <li>they have a good bass and are durable</li>
+                    <li>they have an earphone to receive phone calls</li>
+                    <li>they normally dont reject big pin smart-phones</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -92,7 +93,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>60,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-25-bluetooth1-details.php"><img src="../images/product-25-bluetooth-earphones-jbl1.png"></a>
@@ -104,7 +105,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$15.00-$20.00</p>
+                <p>55,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-13-A12samsung-details.php"><img src="../images/product-13-samsungA21s1.png"></a>
@@ -116,11 +117,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                 </div>
-                <p>$215.00-$270.00</p>
+                <p>780,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>Laptop</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New HP Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -128,12 +129,12 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
         </div>
 
     </div>
-
+       
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
 
