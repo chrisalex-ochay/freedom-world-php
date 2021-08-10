@@ -72,11 +72,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>we have all OTG connectors or adapters for both smart-flat charging-port<br>
-                    and the ones for C-Type <br>
-                    origina and durable types and all we have <br>
-                    expect nothing less
-                </p>
+                <ul>
+                    <li>we have all OTG connectors or adapters for both smart-flat charging-port</li>
+                    <li>and the ones for C-Type </li>
+                    <li>original and durable types and all we have</li>
+                    <li>expect nothing less</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -103,7 +104,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$50.00</p>
+                <p>12,000-100,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-39-memorycards-details.php"><img src="../images/product-39-memorycard-1.jpg"></a>
@@ -115,7 +116,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$45.00</p>
+                <p>10,000-95,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-9-mouse-details.php"><img src="../images/product-9-mouse-wired-1.png"></a>
@@ -127,11 +128,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$15.00</p>
+                <p>18,000-60,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>Laptop</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New HP Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -139,7 +140,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
         </div>
 
