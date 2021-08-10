@@ -59,7 +59,7 @@
             <div class="col-2">
                 <p>S.D/Memory Cards</p>
                 <h1>Original Memory Cards</h1>
-                <h4>$5.00-$45.00</h4>
+                <h4>10,000-95,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>BLACK</option>
@@ -69,11 +69,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>We have all types of SD cards namely, Belief, Bull, Sandisk, and many more <br>
-                   we only sell original long lasting and durable SD cards <br>
-                   We have from 1gb, 2gb, 4gb, 8gb, 16gb, 32gb, 64gb and 128gb capacity cards<br>
-                   all our cards are at a good price.
-                </p>
+                <ul>
+                    <li>We have all types of SD cards namely, Belief, Bull, Sandisk, and many more</li>
+                    <li>we only sell original long lasting and durable SD cards</li>
+                    <li>We have from 1gb, 2gb, 4gb, 8gb, 16gb, 32gb, 64gb and 128gb capacity cards</li>
+                    <li>all our cards are at a good price.</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -100,7 +101,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$50.00</p>
+                <p>12,000-100,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-41-otg-adapter-details.php"><img src="../images/product-41-OTG-adapter-1.jpg"></a>
@@ -112,7 +113,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$5.00-$50.00</p>
+                <p>8,000-25,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-13-A21samsung-details.php"><img src="../images/product-13-samsungA21s1.png"></a>
@@ -124,11 +125,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                 </div>
-                <p>$215.00-$270.00</p>
+                <p>780,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-2-laptop-details.php"><img src="../images/product-2-laptop1.png"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>Laptop</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New HP Laptop</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -136,7 +137,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$200.00 - $1000.00</p>
+                <p>2,900,000 Ushs</p>
             </div>
         </div>
 
