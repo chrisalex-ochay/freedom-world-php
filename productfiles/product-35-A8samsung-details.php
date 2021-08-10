@@ -53,7 +53,7 @@
             <div class="col-2">
                 <p>A8 samsung Galaxy</p>
                 <h1>Samsung Galaxy A8 </h1>
-                <h4>$212.00 - $240.00</h4>
+                <h4>800,000 Ushs</h4>
                 <select>
                     <option>Select Color</option>
                     <option>Black</option>
@@ -63,11 +63,12 @@
 
                 <h3>Product Details <i class="fa fa-indent"></i></h3>
                 <br>
-                <p>it's a 4G networt based smartphone,<br>
-                   Dual or Single nano simcard  <br>
-                   it has a very good camera for both front and back  <br>
-                   with a very good battery, it come in different colors like Gold, black etc
-                </p>
+                <ul>
+                    <li>it's a 4G networt based smartphone,</li>
+                    <li>Dual or Single nano simcard</li>
+                    <li>it has a very good camera for both front and back</li>
+                    <li>with a very good battery, it come in different colors like Gold, black etc</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -94,7 +95,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                 </div>
-                <p>$215.00-$270.00</p>
+                <p>780,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-34-newmifi-details.php"><img src="../images/product-34-New-4G-unlocked-mifi-1.jpg"></a>
@@ -106,7 +107,7 @@
                     <i class="fa fa-star-half-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$40.00-$70.00</p>
+                <p>150,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-31-simtablets-details.php"><img src="../images/product-31-simcard-enabled-tablets1.png"></a>
@@ -118,11 +119,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
                 </div>
-                <p>$60.00-$230.00</p>
+                <p>320,000 Ushs</p>
             </div>
             <div class="col-4">
                 <a href="../productfiles/product-1-iphonex-details.php"><img src="../images/product-1-phones-iphoneX-1.jpg"></a>
-                <a href="../productfiles/product-1-iphonex-details.php"><h4>iPhone12</h4></a>
+                <a href="../productfiles/product-1-iphonex-details.php"><h4>New iPhone12</h4></a>
                 <div class="rating">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -130,12 +131,11 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$850.00</p>
+                <p>3,100,000 Ushs</p>
             </div>
         </div>
 
     </div>
-
 <!-- --------------------- footer php link --------------------------- -->
 <?php include('../footer.php'); ?>
 
